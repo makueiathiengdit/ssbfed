@@ -2,6 +2,19 @@ import streamlit as st
 import pandas as pd
 from utils import get_data, tiny_name, check_connection, set_precision, footer
 from constants import STATS_VARIABLES
+from PIL import Image
+
+
+favicon = Image.open("favicon.png")
+
+# page settings
+st.set_page_config(
+    page_title="Player Comparison",
+    page_icon=favicon,
+    initial_sidebar_state="expanded",
+    layout="wide"
+)
+
 
 players_stats = get_data("data/players_boxscore.csv")
 players_stats['date'] = players_stats['date'].dt.strftime("%d-%m-%Y")
@@ -152,3 +165,5 @@ elif compare_btn:
 
 
 footer()
+
+st.toast("This page is for coaches and staff only. but for now anyone can see it")

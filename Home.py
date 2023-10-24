@@ -364,6 +364,7 @@ with players_tab:
             st.table(results)
             st.markdown(css, unsafe_allow_html=True)
 
+    st.info("To see all players and their stats, click [here](/Players)")
 
 st.divider()
 
@@ -377,14 +378,15 @@ with chat_tab:
     st.info("Hello 🙋🏿‍♀️, My name is NyaSSD, South Sudan basketball chatbot. you can ask me any question about south sudan basketball")
 
     question = st.text_area(label="Question", label_visibility="hidden",
-                            placeholder="Ask me any question about south sudan basketball e.g who is the best three point shooter")
+                            placeholder="Ask me any question about south sudan basketball e.g who is the best three point shooter", disabled=True)
 
     submit = st.button("Ask", type="primary", use_container_width=True)
     reply_container = st.empty()
+    st.info("To chat, click [here](/Chat)")
 
-    if submit and question is not None:
-        with reply_container:
-            st.info("I am still under development. Hope to chat with you soon.")
+    # if submit and question is not None:
+    #     with reply_container:
+    #         st.info("I am still under development. Hope to chat with you soon.")
 
 # --------------------- news tab ------------------
 with news_tab:
@@ -415,9 +417,11 @@ with p_tab:
             'players': "Player Name",
             'date': "Debut Date",
             'games': st.column_config.NumberColumn("Games Played", help="Games Played excluding friendly matches")}, use_container_width=True)
-    st.info("For info about each player, click [here](/Players)")
+    st.info("To see all players and their stats, click [here](/Players)")
+
 
 with q_tab:
+    st.info("This is a demo. advanced stats coming soon")
     qs = games_in_brief[games_in_brief['team'] ==
                         'South Sudan'][['date', 'Q1', 'Q2', 'Q3', 'Q4', 'opponent']]
     qs = qs.reset_index()
@@ -426,8 +430,6 @@ with q_tab:
     qs = qs[:10]
     qs['date'] = qs['date'].dt.strftime(f"%d-%m-%Y")
     qs.sort_values(by="date", inplace=True)
-    # st.dataframe(games_in_brief[['Q1', 'Q2', 'Q3', 'Q4']].agg(['sum', 'mean']))
-    # st.dataframe(games_in_brief[games_in_brief['team'] == 'South Sudan'])
 
     q1 = go.Bar(
         x=qs.index,
@@ -494,5 +496,5 @@ if st.session_state.get('first_time', True):
     # st.balloons()
     st.session_state['first_time'] = False
 
-st.toast(
-    "We recommend viewing this site on device with large screen for better experience. 🙏🏿")
+    st.toast(
+        "We recommend viewing this site on device with large screen for better experience. 🙏🏿")

@@ -32,7 +32,7 @@ initial_message = "Hello there 🙋🏿‍♀️, My name is NyaSSD,\
 
 st.info("# Chat with NyaSSD 👸🏿")
 
-st.info("Welcome 🙋🏿‍♀️, My name is NyaSSD, \n I am South Sudan basketball chatbot. you can ask me any question about south sudan basketball")
+# st.info("Welcome 🙋🏿‍♀️, My name is NyaSSD, \n I am South Sudan basketball chatbot. you can ask me any question about south sudan basketball")
 
 
 if "messages" not in st.session_state:
@@ -47,7 +47,7 @@ for message in st.session_state['messages']:
 
 
 query = st.chat_input(
-    "Ask me about SSD basketball e.g Who is all time leading scorer?")
+    " Ask me e.g Who is all time leading scorer?")
 if query:
     with st.chat_message(name="user"):
         st.markdown(query)

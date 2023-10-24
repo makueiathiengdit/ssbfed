@@ -129,7 +129,7 @@ with st.container():
                                 """,
                                 unsafe_allow_html=True
                                 )
-                with st.expander("See Details"):
+                with st.expander("See Stats Info"):
                     condensed_stats(
                         df, total_players[index], converter_fn='short')
         st.divider()
