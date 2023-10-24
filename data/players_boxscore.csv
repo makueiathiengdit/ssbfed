@@ -1,0 +1,391 @@
+date,jersey_number,players,minutes,points,field_goals_made,field_goals_attempts,field_goals_pct,two_points_made,two_points_attempts,two_points_pct,three_points_made,three_points_attempts,three_points_pct,free_throws_made,free_throws_attempts,free_throws_pct,offensive_rebounds,defensive_rebounds,rebounds,assists,steals,blocks,turnovers,personal_fouls,plus_minus,efficiency,opponent,win,competition,group,phase,home
+14-Jan-20,1,Teny Bak Puot,28,15,4,8,50,1,1,100,3,7,42.9,4,4,100,1,2,3,1,1,0,2,0,27,11,Somalia,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,TRUE
+14-Jan-20,3,Bol Bak,21,8,4,8,50,4,6,66.7,0,2,0,0,0,0,1,5,6,3,0,0,1,0,17,12,Somalia,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,TRUE
+14-Jan-20,4,Mangistu Jongkor,19,4,2,5,40,2,4,50,0,1,0,0,0,0,0,0,0,1,1,0,0,4,18,18,Somalia,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,TRUE
+14-Jan-20,5,Dominik Philip,9,0,0,3,0,0,2,0,0,1,0,0,0,0,1,2,3,0,1,0,1,0,4,0,Somalia,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,TRUE
+14-Jan-20,7,Nyang Wek,21,11,4,7,57.1,4,7,57.1,0,0,0,3,6,50,4,2,6,1,1,0,0,3,18,13,Somalia,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,TRUE
+14-Jan-20,8,Kuany Ngor Kuany,26,21,5,10,50,3,6,50,2,4,50,9,9,100,0,5,5,1,0,1,1,1,20,22,Somalia,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,TRUE
+14-Jan-20,9,Mathiang Mauot Muo,19,18,6,7,85.7,2,3,66.7,4,4,100,2,2,100,0,6,6,1,1,0,0,2,13,25,Somalia,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,TRUE
+14-Jan-20,10,Makuei Puondak,17,14,5,8,62.5,5,8,62.5,0,0,0,4,7,57.1,2,1,3,1,0,0,5,3,6,7,Somalia,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,TRUE
+14-Jan-20,11,Emmanuel Malou,28,15,6,8,75,4,6,66.7,2,2,100,1,2,50,2,6,8,0,0,4,1,3,27,23,Somalia,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,TRUE
+14-Jan-20,14,Deng Mayot Mabior,16,6,2,3,66.7,2,3,66.7,0,0,0,2,2,100,4,8,12,0,0,1,2,2,15,16,Somalia,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,TRUE
+14-Mar-17,1,Akech Bul Aguer,6,0,0,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,-5,-2,Kenya,TRUE,Fiba Afrobasketqualifiers 2017 ,Group A,Zone 5 - Qualifiers,TRUE
+14-Mar-17,2,Duol Michael Mayot,4,2,1,1,100,1,1,100,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,Kenya,TRUE,Fiba Afrobasketqualifiers 2017 ,Group A,Zone 5 - Qualifiers,TRUE
+14-Mar-17,3,Teny Bak Puot,13,3,1,1,100,1,1,100,0,0,0,1,3,33.3,0,0,0,2,1,0,2,0,-9,2,Kenya,TRUE,Fiba Afrobasketqualifiers 2017 ,Group A,Zone 5 - Qualifiers,TRUE
+14-Mar-17,4,Chier Mathiang Ater Chier,23,17,7,12,58.3,5,9,55.6,2,3,66.7,1,2,50,3,4,7,3,1,0,5,3,10,17,Kenya,TRUE,Fiba Afrobasketqualifiers 2017 ,Group A,Zone 5 - Qualifiers,TRUE
+14-Mar-17,5,Mathiang Mauot Muo,34,17,3,4,75,0,1,0,3,3,100,8,10,80,3,6,9,5,0,0,6,4,12,22,Kenya,TRUE,Fiba Afrobasketqualifiers 2017 ,Group A,Zone 5 - Qualifiers,TRUE
+14-Mar-17,10,Atem Kuol Atem Bol,30,6,3,8,37.5,3,5,60,0,3,0,0,0,0,3,6,9,0,1,0,5,2,-4,6,Kenya,TRUE,Fiba Afrobasketqualifiers 2017 ,Group A,Zone 5 - Qualifiers,TRUE
+14-Mar-17,12,Ajak Ateng Magot Anok,34,8,4,9,44.4,4,9,44.4,0,0,0,0,0,0,2,4,6,0,0,0,1,1,-5,8,Kenya,TRUE,Fiba Afrobasketqualifiers 2017 ,Group A,Zone 5 - Qualifiers,TRUE
+14-Mar-17,20,Wanjang Hoth Tut,30,10,3,8,37.5,3,7,42.9,0,1,0,4,4,100,2,5,7,1,0,1,3,0,4,11,Kenya,TRUE,Fiba Afrobasketqualifiers 2017 ,Group A,Zone 5 - Qualifiers,TRUE
+14-Mar-17,40,Riak Bol Bol,30,5,2,6,33.3,2,6,33.3,0,0,0,1,2,50,3,2,5,1,1,2,4,3,5,5,Kenya,TRUE,Fiba Afrobasketqualifiers 2017 ,Group A,Zone 5 - Qualifiers,TRUE
+15-Jan-20,1,Teny Bak Puot,14,3,1,4,25,1,2,50,0,2,0,1,2,50,0,1,1,1,1,0,2,0,18,0,Eritrea,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,FALSE
+15-Jan-20,3,Bol Bak,27,20,6,13,46.2,6,11,54.5,0,2,0,8,10,80,2,4,6,10,3,0,1,0,36,29,Eritrea,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,FALSE
+15-Jan-20,4,Mangistu Jongkor,19,7,3,6,50,2,4,50,1,2,50,0,0,0,1,2,3,1,1,0,3,0,32,6,Eritrea,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,FALSE
+15-Jan-20,5,Dominik Philip,27,12,2,5,40,0,1,0,2,4,50,6,10,60,0,3,3,3,1,0,1,0,37,11,Eritrea,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,FALSE
+15-Jan-20,7,Nyang Wek,13,15,7,9,77.8,6,8,75,1,1,100,0,0,0,0,3,3,1,2,0,0,0,16,19,Eritrea,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,FALSE
+15-Jan-20,8,Kuany Ngor Kuany,24,6,3,5,60,3,3,100,0,2,0,0,0,0,1,2,3,4,1,0,0,1,21,12,Eritrea,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,FALSE
+15-Jan-20,9,Mathiang Mauot Muo,14,8,3,4,75,1,1,100,2,3,66.7,0,0,0,0,1,1,1,2,0,1,0,18,10,Eritrea,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,FALSE
+15-Jan-20,10,Makuei Puondak,22,14,6,9,66.7,6,9,66.7,0,0,0,2,2,100,2,2,4,1,1,0,1,1,35,16,Eritrea,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,FALSE
+15-Jan-20,11,Emmanuel Malou,24,14,6,11,54.5,5,10,50,1,1,100,1,3,33.3,4,5,9,2,1,1,1,0,34,19,Eritrea,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,FALSE
+15-Jan-20,14,Deng Mayot Mabior,21,12,4,5,80,4,5,80,0,0,0,4,5,80,3,7,10,0,1,1,1,0,23,21,Eritrea,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,FALSE
+15-Mar-17,1,Akech Bul Aguer,11,3,1,5,20,0,3,0,1,2,50,0,0,0,1,0,1,1,0,0,0,2,5,1,Rwanda,FALSE,Fiba Afrobasketqualifiers 2017 ,Group A,Zone 5 - Qualifiers,TRUE
+15-Mar-17,2,Duol Michael Mayot,7,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,1,0,-1,Rwanda,FALSE,Fiba Afrobasketqualifiers 2017 ,Group A,Zone 5 - Qualifiers,TRUE
+15-Mar-17,3,Teny Bak Puot,12,5,2,5,40,1,3,33.3,1,2,50,0,0,0,0,0,0,0,0,0,3,0,-14,-1,Rwanda,FALSE,Fiba Afrobasketqualifiers 2017 ,Group A,Zone 5 - Qualifiers,TRUE
+15-Mar-17,4,Chier Mathiang Ater Chier,27,22,7,15,46.7,3,6,50,4,9,44.4,4,4,100,1,2,3,3,2,1,0,3,9,23,Rwanda,FALSE,Fiba Afrobasketqualifiers 2017 ,Group A,Zone 5 - Qualifiers,TRUE
+15-Mar-17,5,Mathiang Mauot Muo,32,12,4,9,44.4,3,7,42.9,1,2,50,3,3,100,1,2,3,3,2,0,4,3,-4,11,Rwanda,FALSE,Fiba Afrobasketqualifiers 2017 ,Group A,Zone 5 - Qualifiers,TRUE
+15-Mar-17,10,Atem Kuol Atem Bol,37,20,7,16,43.8,4,10,40,3,6,50,3,3,100,1,7,8,0,1,0,1,4,-9,19,Rwanda,FALSE,Fiba Afrobasketqualifiers 2017 ,Group A,Zone 5 - Qualifiers,TRUE
+15-Mar-17,12,Ajak Ateng Magot Anok,24,2,1,5,20,1,5,20,0,0,0,0,0,0,4,3,7,0,0,0,1,5,-15,4,Rwanda,FALSE,Fiba Afrobasketqualifiers 2017 ,Group A,Zone 5 - Qualifiers,TRUE
+15-Mar-17,20,Wanjang Hoth Tut,32,12,5,14,35.7,5,11,45.5,0,3,0,2,2,100,3,1,4,4,1,1,1,4,-6,12,Rwanda,FALSE,Fiba Afrobasketqualifiers 2017 ,Group A,Zone 5 - Qualifiers,TRUE
+15-Mar-17,40,Riak Bol Bol,23,4,2,7,28.6,2,7,28.6,0,0,0,0,0,0,3,4,7,0,0,0,3,2,-16,3,Rwanda,FALSE,Fiba Afrobasketqualifiers 2017 ,Group A,Zone 5 - Qualifiers,TRUE
+16-Jan-20,1,Teny Bak Puot,34,30,11,19,57.9,3,7,42.9,8,12,66.7,0,0,0,1,3,4,4,1,0,2,4,39,29,Burundi,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,FALSE
+16-Jan-20,3,Bol Bak,17,5,2,7,28.6,1,3,33.3,1,4,25,0,0,0,0,0,0,2,1,0,1,1,15,2,Burundi,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,FALSE
+16-Jan-20,4,Mangistu Jongkor,9,0,0,1,0,0,0,0,0,1,0,0,2,0,0,0,0,1,0,0,0,1,8,-2,Burundi,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,FALSE
+16-Jan-20,5,Dominik Philip,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,-1,Burundi,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,FALSE
+16-Jan-20,8,Kuany Ngor Kuany,31,5,2,6,33.3,2,4,50,0,2,0,1,2,50,1,8,9,3,2,0,2,0,31,12,Burundi,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,FALSE
+16-Jan-20,9,Mathiang Mauot Muo,29,16,5,13,38.5,1,3,33.3,4,10,40,2,2,100,3,4,7,2,2,0,2,1,28,17,Burundi,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,FALSE
+16-Jan-20,10,Makuei Puondak,22,10,4,5,80,4,5,80,0,0,0,2,2,100,3,3,6,1,0,0,0,0,26,16,Burundi,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,FALSE
+16-Jan-20,11,Emmanuel Malou,26,10,3,8,37.5,3,4,75,0,4,0,4,4,100,0,6,6,1,0,0,3,4,23,9,Burundi,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,FALSE
+16-Jan-20,13,Akoy Magut Agau,15,10,1,5,20,1,3,33.3,0,2,0,8,8,100,1,3,4,0,0,0,1,0,16,9,Burundi,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,FALSE
+16-Jan-20,14,Deng Mayot Mabior,20,14,5,9,55.6,5,9,55.6,0,0,0,4,5,80,5,6,11,0,1,2,1,1,17,22,Burundi,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,FALSE
+17-Feb-21,0,Teny Bak Puot,26,8,1,5,20,0,1,0,1,4,25,5,5,100,0,2,2,5,0,0,3,2,9,8,Nigeria,FALSE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,TRUE
+17-Feb-21,1,Nuni Omot,32,27,10,17,58.8,8,10,80,2,7,28.6,5,7,71.4,2,2,4,1,1,1,4,2,-1,21,Nigeria,FALSE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,TRUE
+17-Feb-21,2,Nyang Wek,24,4,2,5,40,2,5,40,0,0,0,0,2,0,3,5,8,0,1,1,0,0,-1,9,Nigeria,FALSE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,TRUE
+17-Feb-21,3,Bol Bak,2,0,0,3,0,0,1,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,-5,-2,Nigeria,FALSE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,TRUE
+17-Feb-21,5,Dut Jok Kacuol,28,10,4,10,40,2,4,50,2,6,33.3,0,0,0,3,3,6,1,2,0,2,2,7,11,Nigeria,FALSE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,TRUE
+17-Feb-21,6,Deng Acuoth,12,2,1,4,25,1,4,25,0,0,0,0,0,0,3,2,5,1,0,0,1,0,-6,4,Nigeria,FALSE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,TRUE
+17-Feb-21,7,Aluk Lual Adub,7,2,1,4,25,1,3,33.3,0,1,0,0,0,0,0,2,2,0,0,0,2,0,-5,-1,Nigeria,FALSE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,TRUE
+17-Feb-21,8,Kuany Ngor Kuany,22,6,3,9,33.3,3,5,60,0,4,0,0,0,0,2,1,3,4,0,0,3,5,-14,4,Nigeria,FALSE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,TRUE
+17-Feb-21,9,Mathiang Mauot Muo,26,5,2,7,28.6,1,2,50,1,5,20,0,0,0,2,4,6,2,1,0,2,2,-1,7,Nigeria,FALSE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,TRUE
+17-Feb-21,11,Emmanuel Malou,15,3,1,3,33.3,1,3,33.3,0,0,0,1,2,50,1,2,3,0,0,1,0,1,-4,4,Nigeria,FALSE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,TRUE
+17-Feb-21,12,Deng Makuac Riak,7,3,1,1,100,0,0,0,1,1,100,0,0,0,0,0,0,0,0,0,0,2,-6,3,Nigeria,FALSE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,TRUE
+17-Feb-21,14,Deng Mayot Mabior,5,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,2,0,Nigeria,FALSE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,TRUE
+17-Jan-20,3,Bol Bak,27,29,11,17,64.7,7,12,58.3,4,5,80,3,5,60,2,4,6,2,0,0,2,0,29,27,Tanzania,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,FALSE
+17-Jan-20,4,Mangistu Jongkor,32,21,8,16,50,4,7,57.1,4,9,44.4,1,1,100,1,1,2,1,5,0,0,2,30,21,Tanzania,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,FALSE
+17-Jan-20,5,Dominik Philip,29,13,5,14,35.7,4,9,44.4,1,5,20,2,2,100,0,1,1,3,2,0,1,1,40,9,Tanzania,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,FALSE
+17-Jan-20,6,Athiey Daniel Deng Lual,21,11,4,10,40,1,2,50,3,8,37.5,0,0,0,0,1,1,8,4,0,1,1,31,17,Tanzania,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,FALSE
+17-Jan-20,8,Kuany Ngor Kuany,17,6,3,4,75,3,3,100,0,1,0,0,0,0,1,4,5,5,0,0,0,0,36,15,Tanzania,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,FALSE
+17-Jan-20,9,Mathiang Mauot Muo,16,6,2,3,66.7,0,0,0,2,3,66.7,0,0,0,2,0,2,0,1,0,0,0,34,8,Tanzania,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,FALSE
+17-Jan-20,10,Makuei Puondak,16,10,4,5,80,4,5,80,0,0,0,2,2,100,0,3,3,1,1,0,0,4,12,14,Tanzania,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,FALSE
+17-Jan-20,11,Emmanuel Malou,19,12,6,9,66.7,6,9,66.7,0,0,0,0,0,0,3,7,10,2,1,0,0,1,37,22,Tanzania,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,FALSE
+17-Jan-20,13,Akoy Magut Agau,28,7,2,6,33.3,1,4,25,1,2,50,2,2,100,3,12,15,3,0,1,3,3,26,19,Tanzania,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,FALSE
+17-Mar-17,1,Akech Bul Aguer,10,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,1,1,1,0,1,0,-4,1,Kenya,TRUE,Fiba Afrobasketqualifiers 2017 ,,Zone 5 - Classification,FALSE
+17-Mar-17,2,Duol Michael Mayot,8,2,1,3,33.3,1,3,33.3,0,0,0,0,0,0,0,1,1,1,0,0,1,1,-4,1,Kenya,TRUE,Fiba Afrobasketqualifiers 2017 ,,Zone 5 - Classification,FALSE
+17-Mar-17,3,Teny Bak Puot,31,10,3,12,25,1,4,25,2,8,25,2,3,66.7,2,3,5,8,0,0,3,5,11,10,Kenya,TRUE,Fiba Afrobasketqualifiers 2017 ,,Zone 5 - Classification,FALSE
+17-Mar-17,4,Chier Mathiang Ater Chier,35,15,6,14,42.9,4,6,66.7,2,8,25,1,2,50,2,6,8,2,1,0,6,2,4,11,Kenya,TRUE,Fiba Afrobasketqualifiers 2017 ,,Zone 5 - Classification,FALSE
+17-Mar-17,5,Mathiang Mauot Muo,44,34,10,21,47.6,8,12,66.7,2,9,22.2,12,12,100,3,6,9,2,1,0,3,3,12,32,Kenya,TRUE,Fiba Afrobasketqualifiers 2017 ,,Zone 5 - Classification,FALSE
+17-Mar-17,10,Atem Kuol Atem Bol,24,4,2,5,40,2,4,50,0,1,0,0,0,0,3,8,11,2,1,0,2,5,-4,13,Kenya,TRUE,Fiba Afrobasketqualifiers 2017 ,,Zone 5 - Classification,FALSE
+17-Mar-17,12,Ajak Ateng Magot Anok,41,15,7,17,41.2,6,16,37.5,1,1,100,0,0,0,5,8,13,2,0,2,0,3,10,22,Kenya,TRUE,Fiba Afrobasketqualifiers 2017 ,,Zone 5 - Classification,FALSE
+17-Mar-17,20,Wanjang Hoth Tut,22,7,3,7,42.9,3,5,60,0,2,0,1,1,100,2,7,9,4,1,3,3,5,4,17,Kenya,TRUE,Fiba Afrobasketqualifiers 2017 ,,Zone 5 - Classification,FALSE
+17-Mar-17,40,Riak Bol Bol,15,2,1,3,33.3,1,3,33.3,0,0,0,0,0,0,0,2,2,1,0,0,0,2,-4,3,Kenya,TRUE,Fiba Afrobasketqualifiers 2017 ,,Zone 5 - Classification,FALSE
+18-Feb-21,0,Teny Bak Puot,22,3,1,6,16.7,0,1,0,1,5,20,0,0,0,0,4,4,1,0,0,3,1,3,0,Mali,TRUE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,FALSE
+18-Feb-21,1,Nuni Omot,37,16,6,11,54.5,5,10,50,1,1,100,3,4,75,1,2,3,1,0,0,3,3,6,11,Mali,TRUE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,FALSE
+18-Feb-21,2,Nyang Wek,16,0,0,3,0,0,3,0,0,0,0,0,0,0,1,7,8,0,1,1,2,5,8,5,Mali,TRUE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,FALSE
+18-Feb-21,5,Dut Jok Kacuol,26,14,4,13,30.8,0,3,0,4,10,40,2,3,66.7,0,2,2,0,2,1,2,3,-6,7,Mali,TRUE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,FALSE
+18-Feb-21,6,Deng Acuoth,21,3,1,5,20,1,5,20,0,0,0,1,2,50,0,6,6,2,1,2,0,1,0,9,Mali,TRUE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,FALSE
+18-Feb-21,8,Kuany Ngor Kuany,34,21,7,13,53.8,6,10,60,1,3,33.3,6,8,75,2,2,4,4,2,0,1,1,11,22,Mali,TRUE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,FALSE
+18-Feb-21,9,Mathiang Mauot Muo,12,3,1,4,25,0,0,0,1,4,25,0,0,0,2,1,3,1,0,0,1,2,-1,3,Mali,TRUE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,FALSE
+18-Feb-21,11,Emmanuel Malou,27,9,2,6,33.3,1,3,33.3,1,3,33.3,4,4,100,2,3,5,0,0,0,0,1,5,10,Mali,TRUE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,FALSE
+18-Feb-21,12,Deng Makuac Riak,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-7,0,Mali,TRUE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,FALSE
+18-Feb-21,14,Deng Mayot Mabior,5,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,Mali,TRUE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,FALSE
+18-Jan-20,1,Teny Bak Puot,35,13,4,15,26.7,1,7,14.3,3,8,37.5,2,6,33.3,0,2,2,1,1,0,0,3,3,2,Kenya,FALSE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,TRUE
+18-Jan-20,3,Bol Bak,25,9,3,10,30,1,5,20,2,5,40,1,2,50,0,2,2,1,0,0,4,0,-1,0,Kenya,FALSE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,TRUE
+18-Jan-20,8,Kuany Ngor Kuany,35,8,3,8,37.5,2,6,33.3,1,2,50,1,4,25,4,7,11,3,0,0,4,5,-9,10,Kenya,FALSE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,TRUE
+18-Jan-20,9,Mathiang Mauot Muo,27,8,2,10,20,2,5,40,0,5,0,4,5,80,1,4,5,2,0,0,0,3,-11,6,Kenya,FALSE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,TRUE
+18-Jan-20,10,Makuei Puondak,28,16,5,9,55.6,5,8,62.5,0,1,0,6,12,50,6,0,6,0,0,0,3,1,-1,9,Kenya,FALSE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,TRUE
+18-Jan-20,11,Emmanuel Malou,32,9,2,7,28.6,1,2,50,1,5,20,4,4,100,2,6,8,2,0,1,1,1,11,14,Kenya,FALSE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,TRUE
+18-Jan-20,13,Akoy Magut Agau,4,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,-13,-2,Kenya,FALSE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,TRUE
+18-Jan-20,14,Deng Mayot Mabior,18,5,2,3,66.7,1,1,100,1,2,50,0,2,0,0,5,5,0,0,1,2,3,-9,6,Kenya,FALSE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,TRUE
+19-Feb-21,0,Teny Bak Puot,26,7,1,3,33.3,1,2,50,0,1,0,5,5,100,0,2,2,1,2,0,2,1,-5,8,Rwanda,FALSE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,TRUE
+19-Feb-21,1,Nuni Omot,4,2,1,2,50,1,2,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,Rwanda,FALSE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,TRUE
+19-Feb-21,2,Nyang Wek,33,7,3,3,100,3,3,100,0,0,0,1,2,50,0,8,8,0,3,1,4,2,-1,14,Rwanda,FALSE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,TRUE
+19-Feb-21,3,Bol Bak,12,3,1,2,50,0,1,0,1,1,100,0,0,0,0,2,2,2,0,0,3,0,4,3,Rwanda,FALSE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,TRUE
+19-Feb-21,6,Deng Acuoth,23,3,1,4,25,1,4,25,0,0,0,1,2,50,3,5,8,1,0,0,2,1,-6,6,Rwanda,FALSE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,TRUE
+19-Feb-21,7,Aluk Lual Adub,12,4,2,5,40,2,4,50,0,1,0,0,0,0,0,4,4,0,2,0,2,1,2,5,Rwanda,FALSE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,TRUE
+19-Feb-21,8,Kuany Ngor Kuany,36,13,4,10,40,3,6,50,1,4,25,4,5,80,0,3,3,4,2,0,7,1,-6,8,Rwanda,FALSE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,TRUE
+19-Feb-21,9,Mathiang Mauot Muo,28,9,3,14,21.4,0,2,0,3,12,25,0,0,0,2,1,3,1,0,0,2,1,1,0,Rwanda,FALSE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,TRUE
+19-Feb-21,11,Emmanuel Malou,23,10,4,8,50,3,5,60,1,3,33.3,1,2,50,1,2,3,0,0,0,5,1,-8,3,Rwanda,FALSE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,TRUE
+19-Feb-21,12,Deng Makuac Riak,17,0,0,4,0,0,3,0,0,1,0,0,0,0,1,6,7,0,1,0,1,0,-4,3,Rwanda,FALSE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,TRUE
+19-Feb-21,14,Deng Mayot Mabior,16,0,0,2,0,0,1,0,0,1,0,0,0,0,0,2,2,0,0,1,2,2,0,-1,Rwanda,FALSE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,TRUE
+01-Jul-22,1,Nuni Omot,24,13,4,15,26.7,1,9,11.1,3,6,50,2,2,100,1,4,5,1,0,0,2,4,6,6,Rwanda,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,FALSE
+01-Jul-22,4,Mareng Gatkuoth,6,0,0,4,0,0,1,0,0,3,0,0,2,0,0,1,1,1,0,0,1,2,0,-5,Rwanda,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,FALSE
+01-Jul-22,7,Bul Kuol,28,16,5,12,41.7,0,0,0,5,12,41.7,1,2,50,3,2,5,0,0,1,0,4,7,14,Rwanda,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,FALSE
+01-Jul-22,8,Kuany Ngor Kuany,32,15,5,9,55.6,2,3,66.7,3,6,50,2,3,66.7,2,2,4,2,0,0,3,2,10,13,Rwanda,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,FALSE
+01-Jul-22,9,Mathiang Mauot Muo,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,Rwanda,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,FALSE
+01-Jul-22,10,Padiet Wang,21,8,4,8,50,4,5,80,0,3,0,0,0,0,0,0,0,2,4,0,2,2,3,8,Rwanda,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,FALSE
+01-Jul-22,12,Deng Acuoth,31,4,2,4,50,2,4,50,0,0,0,0,0,0,3,12,15,4,0,0,2,4,17,19,Rwanda,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,FALSE
+01-Jul-22,13,Majok Deng,17,8,3,7,42.9,1,2,50,2,5,40,0,0,0,1,2,3,1,1,0,0,2,6,9,Rwanda,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,FALSE
+01-Jul-22,21,Koch Deng Aguer Bar,7,2,0,0,0,0,0,0,0,0,0,2,2,100,1,1,2,0,0,0,0,0,-8,4,Rwanda,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,FALSE
+01-Jul-22,44,Sunday Dech,36,7,3,10,30,2,7,28.6,1,3,33.3,0,0,0,0,10,10,8,0,0,3,2,10,15,Rwanda,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,FALSE
+23-Oct-20,0,Teny Bak Puot,21,9,3,5,60,0,1,0,3,4,75,0,0,0,0,1,1,4,0,0,1,4,0,11,Cape Verde,FALSE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,invitational Tournament,FALSE
+23-Oct-20,1,Titgyeth Kwajakwan,8,8,3,8,37.5,3,6,50,0,2,0,2,3,66.7,2,0,2,3,0,0,1,1,4,6,Cape Verde,FALSE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,invitational Tournament,FALSE
+23-Oct-20,2,Nyang Wek,14,1,0,6,0,0,5,0,0,1,0,1,2,50,6,2,8,1,0,1,1,4,-1,3,Cape Verde,FALSE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,invitational Tournament,FALSE
+23-Oct-20,3,Bol Bak,18,2,1,3,33.3,1,2,50,0,1,0,0,0,0,0,2,2,4,0,0,5,1,-13,1,Cape Verde,FALSE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,invitational Tournament,FALSE
+23-Oct-20,4,Mangistu Jongkor,6,6,2,3,66.7,1,2,50,1,1,100,1,2,50,0,0,0,0,0,0,1,1,-7,3,Cape Verde,FALSE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,invitational Tournament,FALSE
+23-Oct-20,6,Deng Acuoth,21,5,2,6,33.3,2,5,40,0,1,0,1,1,100,5,0,5,1,0,1,2,5,-2,6,Cape Verde,FALSE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,invitational Tournament,FALSE
+23-Oct-20,7,Chier Chier,21,10,4,12,33.3,3,3,100,1,9,11.1,1,1,100,2,3,5,3,0,0,1,1,0,9,Cape Verde,FALSE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,invitational Tournament,FALSE
+23-Oct-20,8,Kuany Ngor Kuany,26,19,6,12,50,3,4,75,3,8,37.5,4,6,66.7,0,4,4,2,1,0,4,5,-2,14,Cape Verde,FALSE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,invitational Tournament,FALSE
+23-Oct-20,9,Mathiang Mauot Muo,25,6,2,5,40,0,1,0,2,4,50,0,0,0,1,0,1,2,1,0,0,2,4,7,Cape Verde,FALSE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,invitational Tournament,FALSE
+23-Oct-20,10,Makuei Puondak,14,5,1,3,33.3,1,3,33.3,0,0,0,3,4,75,3,1,4,0,0,1,1,0,-10,6,Cape Verde,FALSE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,invitational Tournament,FALSE
+23-Oct-20,11,Emmanuel Malou,29,14,4,10,40,2,4,50,2,6,33.3,4,4,100,0,10,10,1,0,1,0,4,-3,20,Cape Verde,FALSE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,invitational Tournament,FALSE
+23-Oct-20,12,Deng Kuany,4,0,0,2,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,-1,Cape Verde,FALSE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,invitational Tournament,FALSE
+24-Feb-23,1,Nuni Omot,32,26,7,14,50,6,9,66.7,1,5,20,11,12,91.7,1,7,8,4,1,0,2,1,2,29,Senegal,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,TRUE
+24-Feb-23,4,Mareng Gatkuoth,9,3,1,3,33.3,0,2,0,1,1,100,0,0,0,1,1,2,3,0,0,2,0,5,4,Senegal,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,TRUE
+24-Feb-23,7,Bul Kuol,33,12,4,7,57.1,1,2,50,3,5,60,1,2,50,0,3,3,2,2,0,0,3,3,15,Senegal,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,TRUE
+24-Feb-23,8,Kuany Ngor Kuany,17,4,1,2,50,1,1,100,0,1,0,2,3,66.7,1,3,4,2,0,0,1,4,4,7,Senegal,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,TRUE
+24-Feb-23,10,Padiet Wang,8,4,2,2,100,2,2,100,0,0,0,0,0,0,0,1,1,1,2,0,0,0,5,8,Senegal,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,TRUE
+24-Feb-23,12,Deng Acuoth,11,1,0,2,0,0,2,0,0,0,0,1,2,50,2,0,2,1,0,0,4,3,9,-3,Senegal,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,TRUE
+24-Feb-23,13,Majok Deng,9,9,4,6,66.7,3,5,60,1,1,100,0,0,0,0,1,1,0,0,0,0,1,6,8,Senegal,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,TRUE
+24-Feb-23,14,Dut Jok Kacuol,24,6,2,7,28.6,0,2,0,2,5,40,0,0,0,1,4,5,1,1,0,0,1,4,8,Senegal,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,TRUE
+24-Feb-23,21,Koch Deng Aguer Bar,29,11,4,9,44.4,4,9,44.4,0,0,0,3,4,75,1,7,8,2,0,0,0,2,2,15,Senegal,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,TRUE
+24-Feb-23,35,Kur Nyok Kuath,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-3,0,Senegal,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,TRUE
+24-Feb-23,44,Sunday Dech,32,7,2,9,22.2,1,6,16.7,1,3,33.3,2,4,50,1,8,9,6,0,0,3,0,3,10,Senegal,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,TRUE
+24-Oct-20,0,Teny Bak Puot,25,17,5,10,50,1,1,100,4,9,44.4,3,3,100,1,2,3,4,0,0,2,3,29,17,Chad,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,invitational Tournament,TRUE
+24-Oct-20,1,Titgyeth Kwajakwan,12,4,1,3,33.3,0,1,0,1,2,50,1,2,50,0,1,1,3,0,0,1,2,8,4,Chad,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,invitational Tournament,TRUE
+24-Oct-20,2,Nyang Wek,18,7,3,4,75,3,4,75,0,0,0,1,3,33.3,3,6,9,1,1,0,2,3,14,13,Chad,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,invitational Tournament,TRUE
+24-Oct-20,3,Bol Bak,19,12,4,4,100,3,3,100,1,1,100,3,5,60,0,3,3,3,1,0,3,1,9,14,Chad,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,invitational Tournament,TRUE
+24-Oct-20,4,Mangistu Jongkor,10,3,1,5,20,0,1,0,1,4,25,0,0,0,1,0,1,1,0,0,3,1,8,-2,Chad,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,invitational Tournament,TRUE
+24-Oct-20,6,Deng Acuoth,24,8,2,3,66.7,2,3,66.7,0,0,0,4,4,100,3,5,8,5,2,2,0,0,20,24,Chad,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,invitational Tournament,TRUE
+24-Oct-20,7,Chier Chier,16,5,0,4,0,0,2,0,0,2,0,5,6,83.3,1,0,1,1,1,1,2,0,12,2,Chad,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,invitational Tournament,TRUE
+24-Oct-20,8,Kuany Ngor Kuany,32,15,4,11,36.4,3,3,100,1,8,12.5,6,7,85.7,2,12,14,6,0,0,3,0,29,24,Chad,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,invitational Tournament,TRUE
+24-Oct-20,9,Mathiang Mauot Muo,20,5,2,5,40,1,2,50,1,3,33.3,0,2,0,0,2,2,2,0,1,2,5,8,3,Chad,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,invitational Tournament,TRUE
+24-Oct-20,10,Makuei Puondak,9,3,1,1,100,1,1,100,0,0,0,1,2,50,0,1,1,0,0,0,1,2,5,2,Chad,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,invitational Tournament,TRUE
+24-Oct-20,11,Emmanuel Malou,17,15,7,9,77.8,7,7,100,0,2,0,1,2,50,0,1,1,0,1,2,0,3,10,16,Chad,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,invitational Tournament,TRUE
+24-Oct-20,12,Deng Kuany,4,6,1,2,50,0,0,0,1,2,50,3,4,75,1,1,2,1,1,0,0,0,3,8,Chad,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,invitational Tournament,TRUE
+25-Feb-22,1,Nuni Omot,27,8,2,6,33.3,1,4,25,1,2,50,3,6,50,0,6,6,0,0,0,1,3,12,6,Rwanda,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,TRUE
+25-Feb-22,4,Mareng Gatkuoth,14,0,0,5,0,0,3,0,0,2,0,0,0,0,0,2,2,1,0,0,1,0,-2,-3,Rwanda,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,TRUE
+25-Feb-22,6,Chudier James Bile,12,6,1,7,14.3,0,3,0,1,4,25,3,6,50,1,2,3,1,1,0,3,0,4,-1,Rwanda,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,TRUE
+25-Feb-22,8,Kuany Ngor Kuany,30,18,7,10,70,4,5,80,3,5,60,1,1,100,0,2,2,3,1,0,1,2,10,20,Rwanda,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,TRUE
+25-Feb-22,9,Mathiang Mauot Muo,13,5,2,5,40,1,3,33.3,1,2,50,0,0,0,2,1,3,0,0,0,0,0,1,5,Rwanda,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,TRUE
+25-Feb-22,10,Padiet Wang,20,8,4,7,57.1,4,5,80,0,2,0,0,0,0,2,1,3,1,0,1,0,2,14,10,Rwanda,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,TRUE
+25-Feb-22,12,Deng Acuoth,32,8,4,8,50,4,7,57.1,0,1,0,0,0,0,2,5,7,1,1,1,0,1,8,14,Rwanda,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,TRUE
+25-Feb-22,14,Dut Jok Kacuol,20,11,4,8,50,1,3,33.3,3,5,60,0,0,0,0,0,0,0,1,0,2,3,-2,6,Rwanda,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,TRUE
+25-Feb-22,15,Chol Beny Chuar Marial,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-5,1,Rwanda,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,TRUE
+25-Feb-22,20,Anyiarbany Makoi,27,4,1,2,50,1,2,50,0,0,0,2,2,100,0,5,5,4,1,0,6,0,11,7,Rwanda,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,TRUE
+25-Feb-22,21,Koch Deng Aguer Bar,8,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,9,2,Rwanda,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,TRUE
+25-Feb-23,1,Nuni Omot,20,11,2,7,28.6,1,1,100,1,6,16.7,6,6,100,0,1,1,1,1,0,1,1,15,8,Congo DR,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,FALSE
+25-Feb-23,4,Mareng Gatkuoth,23,3,1,6,16.7,0,0,0,1,6,16.7,0,0,0,0,4,4,0,2,0,4,3,15,0,Congo DR,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,FALSE
+25-Feb-23,7,Bul Kuol,13,4,1,5,20,0,0,0,1,5,20,1,1,100,1,2,3,2,1,0,1,1,3,5,Congo DR,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,FALSE
+25-Feb-23,10,Padiet Wang,22,10,5,9,55.6,5,5,100,0,4,0,0,0,0,1,3,4,9,3,0,3,0,16,19,Congo DR,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,FALSE
+25-Feb-23,12,Deng Acuoth,15,4,1,1,100,1,1,100,0,0,0,2,2,100,1,2,3,0,1,4,2,0,3,10,Congo DR,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,FALSE
+25-Feb-23,13,Majok Deng,16,18,6,8,75,3,4,75,3,4,75,3,4,75,2,2,4,1,1,1,0,2,11,22,Congo DR,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,FALSE
+25-Feb-23,14,Dut Jok Kacuol,20,12,5,8,62.5,3,4,75,2,4,50,0,0,0,1,3,4,2,1,0,1,1,9,15,Congo DR,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,FALSE
+25-Feb-23,21,Koch Deng Aguer Bar,22,11,3,3,100,2,2,100,1,1,100,4,5,80,2,1,3,2,0,0,1,0,14,14,Congo DR,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,FALSE
+25-Feb-23,35,Kur Nyok Kuath,16,4,2,4,50,2,3,66.7,0,1,0,0,0,0,2,0,2,0,3,0,2,2,8,5,Congo DR,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,FALSE
+25-Feb-23,44,Sunday Dech,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,3,1,0,3,1,6,3,Congo DR,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,FALSE
+25-Feb-23,45,Deng Angok Yak Deng,20,5,2,7,28.6,1,3,33.3,1,4,25,0,0,0,1,3,4,2,0,0,1,2,5,5,Congo DR,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,FALSE
+26-Aug-22,0,Lual Acuil,19,6,3,10,30,3,7,42.9,0,3,0,0,0,0,0,5,5,0,0,0,1,2,-24,3,Senegal,FALSE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,FALSE
+26-Aug-22,1,Nuni Omot,27,9,3,10,30,2,6,33.3,1,4,25,2,7,28.6,0,7,7,4,0,0,2,3,-3,6,Senegal,FALSE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,FALSE
+26-Aug-22,4,Mareng Gatkuoth,9,3,1,2,50,0,0,0,1,2,50,0,0,0,0,2,2,1,0,0,2,2,-2,3,Senegal,FALSE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,FALSE
+26-Aug-22,7,Bul Kuol,32,16,6,8,75,4,4,100,2,4,50,2,3,66.7,0,2,2,3,0,1,2,0,5,17,Senegal,FALSE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,FALSE
+26-Aug-22,8,Kuany Ngor Kuany,30,6,2,7,28.6,0,2,0,2,5,40,0,0,0,0,6,6,3,0,0,0,3,-4,10,Senegal,FALSE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,FALSE
+26-Aug-22,10,Padiet Wang,5,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,-2,-1,Senegal,FALSE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,FALSE
+26-Aug-22,12,Deng Acuoth,25,7,3,3,100,3,3,100,0,0,0,1,3,33.3,3,6,9,1,0,1,0,1,15,16,Senegal,FALSE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,FALSE
+26-Aug-22,13,Majok Deng,14,4,2,6,33.3,2,3,66.7,0,3,0,0,0,0,3,1,4,0,0,0,0,1,-2,4,Senegal,FALSE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,FALSE
+26-Aug-22,20,Anyiarbany Makoi,8,2,1,4,25,1,4,25,0,0,0,0,0,0,1,0,1,1,1,1,2,0,1,1,Senegal,FALSE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,FALSE
+26-Aug-22,44,Sunday Dech,34,13,3,8,37.5,2,5,40,1,3,33.3,6,9,66.7,0,6,6,5,2,0,3,2,1,15,Senegal,FALSE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,FALSE
+26-Aug-23,1,Nuni Omot,30,11,4,10,40,2,5,40,2,5,40,1,2,50,1,1,2,2,1,0,2,1,-16,7,Puerto Rico,FALSE,Fiba Basketballworldcup 2023 ,Group B,First Round,TRUE
+26-Aug-23,2,Carlik Jones,39,35,12,22,54.5,9,14,64.3,3,8,37.5,8,9,88.9,1,5,6,11,4,0,5,2,-10,40,Puerto Rico,FALSE,Fiba Basketballworldcup 2023 ,Group B,First Round,TRUE
+26-Aug-23,8,Kuany Ngor Kuany,22,0,0,2,0,0,0,0,0,2,0,0,0,0,0,3,3,3,0,0,1,2,7,3,Puerto Rico,FALSE,Fiba Basketballworldcup 2023 ,Group B,First Round,TRUE
+26-Aug-23,11,Marial Shayok,37,11,5,9,55.6,4,7,57.1,1,2,50,0,1,0,2,5,7,3,0,0,2,3,-8,14,Puerto Rico,FALSE,Fiba Basketballworldcup 2023 ,Group B,First Round,TRUE
+26-Aug-23,13,Majok Deng,20,7,1,4,25,1,2,50,0,2,0,5,5,100,0,4,4,0,1,1,2,5,9,8,Puerto Rico,FALSE,Fiba Basketballworldcup 2023 ,Group B,First Round,TRUE
+26-Aug-23,14,Dut Jok Kacuol,17,13,5,8,62.5,2,3,66.7,3,5,60,0,0,0,1,2,3,0,0,0,1,3,-4,12,Puerto Rico,FALSE,Fiba Basketballworldcup 2023 ,Group B,First Round,TRUE
+26-Aug-23,21,Koch Deng Aguer Bar,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,1,0,0,1,8,4,Puerto Rico,FALSE,Fiba Basketballworldcup 2023 ,Group B,First Round,TRUE
+26-Aug-23,32,Wenyen Gabriel,32,13,6,9,66.7,6,9,66.7,0,0,0,1,3,33.3,4,3,7,2,2,3,3,2,-11,19,Puerto Rico,FALSE,Fiba Basketballworldcup 2023 ,Group B,First Round,TRUE
+26-Aug-23,44,Sunday Dech,20,6,1,3,33.3,0,1,0,1,2,50,3,4,75,0,2,2,1,1,0,3,4,0,4,Puerto Rico,FALSE,Fiba Basketballworldcup 2023 ,Group B,First Round,TRUE
+26-Feb-22,1,Nuni Omot,33,20,7,18,38.9,5,11,45.5,2,7,28.6,4,6,66.7,1,3,4,2,1,0,1,1,7,13,Tunisia,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,FALSE
+26-Feb-22,4,Mareng Gatkuoth,14,12,4,5,80,0,0,0,4,5,80,0,0,0,0,3,3,0,0,0,2,1,5,12,Tunisia,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,FALSE
+26-Feb-22,6,Chudier James Bile,5,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,2,2,-2,-1,Tunisia,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,FALSE
+26-Feb-22,8,Kuany Ngor Kuany,27,7,3,7,42.9,2,5,40,1,2,50,0,0,0,2,2,4,0,3,0,1,4,6,9,Tunisia,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,FALSE
+26-Feb-22,9,Mathiang Mauot Muo,15,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0,1,3,1,Tunisia,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,FALSE
+26-Feb-22,10,Padiet Wang,16,6,2,5,40,1,3,33.3,1,2,50,1,1,100,0,2,2,0,0,0,2,2,1,3,Tunisia,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,FALSE
+26-Feb-22,12,Deng Acuoth,34,12,6,7,85.7,6,7,85.7,0,0,0,0,0,0,1,6,7,1,0,1,2,1,8,18,Tunisia,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,FALSE
+26-Feb-22,14,Dut Jok Kacuol,24,3,1,4,25,0,1,0,1,3,33.3,0,0,0,2,4,6,1,1,0,5,3,6,3,Tunisia,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,FALSE
+26-Feb-22,20,Anyiarbany Makoi,27,10,3,7,42.9,3,7,42.9,0,0,0,4,6,66.7,0,1,1,6,2,0,0,1,3,13,Tunisia,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,FALSE
+26-Feb-22,21,Koch Deng Aguer Bar,9,2,1,1,100,1,1,100,0,0,0,0,2,0,1,1,2,0,0,2,0,0,3,4,Tunisia,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,FALSE
+26-Feb-23,1,Nuni Omot,30,18,5,9,55.6,3,3,100,2,6,33.3,6,7,85.7,0,4,4,2,0,1,3,3,9,17,Egypt,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,TRUE
+26-Feb-23,4,Mareng Gatkuoth,26,13,5,12,41.7,2,6,33.3,3,6,50,0,0,0,2,2,4,6,1,0,1,3,25,16,Egypt,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,TRUE
+26-Feb-23,8,Kuany Ngor Kuany,31,22,5,11,45.5,1,3,33.3,4,8,50,8,11,72.7,1,2,3,4,0,1,2,3,14,19,Egypt,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,TRUE
+26-Feb-23,10,Padiet Wang,17,4,2,6,33.3,2,4,50,0,2,0,0,0,0,1,7,8,5,0,0,1,3,13,12,Egypt,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,TRUE
+26-Feb-23,12,Deng Acuoth,17,2,1,2,50,1,2,50,0,0,0,0,0,0,1,3,4,0,0,0,0,1,1,5,Egypt,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,TRUE
+26-Feb-23,13,Majok Deng,21,22,8,13,61.5,8,13,61.5,0,0,0,6,6,100,2,4,6,1,2,1,2,1,13,25,Egypt,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,TRUE
+26-Feb-23,14,Dut Jok Kacuol,24,8,3,9,33.3,1,4,25,2,5,40,0,0,0,0,7,7,3,1,0,1,3,7,12,Egypt,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,TRUE
+26-Feb-23,21,Koch Deng Aguer Bar,20,2,1,2,50,1,2,50,0,0,0,0,0,0,3,2,5,2,0,2,0,1,24,10,Egypt,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,TRUE
+26-Feb-23,35,Kur Nyok Kuath,2,2,1,1,100,1,1,100,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-1,3,Egypt,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,TRUE
+26-Feb-23,44,Sunday Dech,14,0,0,1,0,0,1,0,0,0,0,0,0,0,0,2,2,3,0,0,1,3,-2,3,Egypt,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,TRUE
+26-Feb-23,45,Deng Angok Yak Deng,3,4,1,2,50,1,1,100,0,1,0,2,2,100,0,1,1,0,0,0,0,0,-3,4,Egypt,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,TRUE
+26-Nov-20,0,Teny Bak Puot,16,1,0,2,0,0,1,0,0,1,0,1,2,50,1,1,2,1,0,0,2,1,-17,-1,Nigeria,FALSE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,FALSE
+26-Nov-20,1,Anyiarbany Makoi,23,8,3,6,50,3,6,50,0,0,0,2,5,40,0,2,2,3,2,0,2,0,-7,7,Nigeria,FALSE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,FALSE
+26-Nov-20,2,Nyang Wek,20,10,5,7,71.4,5,6,83.3,0,1,0,0,0,0,1,6,7,0,0,0,2,2,-3,13,Nigeria,FALSE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,FALSE
+26-Nov-20,3,Bol Bak,15,3,0,1,0,0,1,0,0,0,0,3,4,75,0,2,2,1,0,1,2,1,-5,3,Nigeria,FALSE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,FALSE
+26-Nov-20,6,Deng Acuoth,19,7,2,5,40,2,5,40,0,0,0,3,5,60,2,6,8,0,1,0,2,1,-6,9,Nigeria,FALSE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,FALSE
+26-Nov-20,7,Aluk Lual Adub,9,0,0,3,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,-12,-3,Nigeria,FALSE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,FALSE
+26-Nov-20,8,Kuany Ngor Kuany,34,8,2,12,16.7,2,10,20,0,2,0,4,4,100,1,4,5,3,1,1,5,2,-18,3,Nigeria,FALSE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,FALSE
+26-Nov-20,9,Mathiang Mauot Muo,28,7,2,9,22.2,0,3,0,2,6,33.3,1,1,100,0,3,3,0,0,0,2,1,-9,1,Nigeria,FALSE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,FALSE
+26-Nov-20,10,Makuei Puondak,12,2,1,3,33.3,1,3,33.3,0,0,0,0,0,0,1,4,5,0,0,0,1,1,-6,4,Nigeria,FALSE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,FALSE
+26-Nov-20,11,Emmanuel Malou,13,6,3,9,33.3,3,7,42.9,0,2,0,0,0,0,6,2,8,1,0,0,1,2,-2,8,Nigeria,FALSE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,FALSE
+26-Nov-20,12,Akoy Magut Agau,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,-7,-2,Nigeria,FALSE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,FALSE
+26-Nov-20,14,Deng Mayot Mabior,14,4,2,4,50,2,4,50,0,0,0,0,0,0,0,2,2,0,0,0,1,2,-8,3,Nigeria,FALSE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,FALSE
+27-Aug-21,0,Teny Bak Puot,25,0,0,7,0,0,2,0,0,5,0,0,0,0,1,1,2,7,2,0,2,0,-22,2,Senegal,FALSE,Fiba Afrobasket 2021 ,Group D,Group Phase,TRUE
+27-Aug-21,2,Nyang Wek,15,13,6,6,100,6,6,100,0,0,0,1,2,50,3,1,4,0,1,0,1,1,-9,16,Senegal,FALSE,Fiba Afrobasket 2021 ,Group D,Group Phase,TRUE
+27-Aug-21,4,Mareng Gatkuoth,9,0,0,4,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,-12,-5,Senegal,FALSE,Fiba Afrobasket 2021 ,Group D,Group Phase,TRUE
+27-Aug-21,5,Junior Madut,17,3,1,6,16.7,1,5,20,0,1,0,1,2,50,2,1,3,1,0,0,0,2,-10,1,Senegal,FALSE,Fiba Afrobasket 2021 ,Group D,Group Phase,TRUE
+27-Aug-21,6,Dhieu Abwok Deing,17,17,6,14,42.9,1,4,25,5,10,50,0,0,0,0,3,3,1,0,1,1,1,-7,13,Senegal,FALSE,Fiba Afrobasket 2021 ,Group D,Group Phase,TRUE
+27-Aug-21,8,Kuany Ngor Kuany,32,17,6,12,50,1,3,33.3,5,9,55.6,0,0,0,0,9,9,2,2,0,6,5,-9,18,Senegal,FALSE,Fiba Afrobasket 2021 ,Group D,Group Phase,TRUE
+27-Aug-21,9,Mathiang Mauot Muo,17,7,2,7,28.6,0,0,0,2,7,28.6,1,2,50,1,0,1,0,0,0,3,4,-19,-1,Senegal,FALSE,Fiba Afrobasket 2021 ,Group D,Group Phase,TRUE
+27-Aug-21,10,Makuei Puondak,8,3,1,2,50,0,0,0,1,2,50,0,0,0,0,1,1,0,0,0,0,0,-7,3,Senegal,FALSE,Fiba Afrobasket 2021 ,Group D,Group Phase,TRUE
+27-Aug-21,12,Deng Acuoth,26,5,2,5,40,1,4,25,1,1,100,0,0,0,1,6,7,1,1,2,1,1,-15,12,Senegal,FALSE,Fiba Afrobasket 2021 ,Group D,Group Phase,TRUE
+27-Aug-21,20,Anyiarbany Makoi,25,8,3,11,27.3,2,10,20,1,1,100,1,2,50,2,3,5,4,1,0,4,2,-21,5,Senegal,FALSE,Fiba Afrobasket 2021 ,Group D,Group Phase,TRUE
+27-Aug-21,21,Koch Deng Aguer Bar,15,2,0,3,0,0,3,0,0,0,0,2,2,100,2,0,2,0,1,0,1,4,-14,1,Senegal,FALSE,Fiba Afrobasket 2021 ,Group D,Group Phase,TRUE
+27-Aug-22,0,Lual Acuil,16,15,6,8,75,6,7,85.7,0,1,0,3,4,75,2,1,3,1,0,0,1,1,3,15,Congo DR,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,TRUE
+27-Aug-22,1,Nuni Omot,17,10,4,8,50,3,5,60,1,3,33.3,1,1,100,1,1,2,3,1,0,1,1,3,11,Congo DR,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,TRUE
+27-Aug-22,4,Mareng Gatkuoth,19,16,5,11,45.5,1,3,33.3,4,8,50,2,2,100,1,1,2,2,1,0,1,0,33,14,Congo DR,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,TRUE
+27-Aug-22,7,Bul Kuol,17,6,2,3,66.7,0,0,0,2,3,66.7,0,0,0,0,5,5,0,1,0,2,1,3,9,Congo DR,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,TRUE
+27-Aug-22,8,Kuany Ngor Kuany,17,6,2,4,50,0,2,0,2,2,100,0,0,0,0,3,3,3,1,0,2,1,14,9,Congo DR,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,TRUE
+27-Aug-22,10,Padiet Wang,16,5,2,5,40,1,1,100,1,4,25,0,0,0,1,3,4,3,1,0,0,2,3,10,Congo DR,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,TRUE
+27-Aug-22,12,Deng Acuoth,15,4,2,2,100,2,2,100,0,0,0,0,2,0,0,2,2,0,1,1,1,1,23,5,Congo DR,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,TRUE
+27-Aug-22,13,Majok Deng,17,19,7,11,63.6,4,5,80,3,6,50,2,3,66.7,2,3,5,1,1,1,0,1,37,22,Congo DR,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,TRUE
+27-Aug-22,20,Anyiarbany Makoi,21,7,2,5,40,1,4,25,1,1,100,2,2,100,0,3,3,3,1,0,4,1,36,7,Congo DR,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,TRUE
+27-Aug-22,21,Koch Deng Aguer Bar,19,8,3,4,75,3,4,75,0,0,0,2,2,100,2,5,7,4,0,1,0,1,43,19,Congo DR,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,TRUE
+27-Aug-22,35,Kur Nyok Kuath,15,5,2,4,50,2,3,66.7,0,1,0,1,2,50,0,3,3,3,0,1,1,3,14,8,Congo DR,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,TRUE
+27-Aug-22,44,Sunday Dech,16,0,0,2,0,0,1,0,0,1,0,0,0,0,0,2,2,3,1,0,2,2,3,2,Congo DR,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,TRUE
+27-Feb-22,0,Teny Bak Puot,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-6,0,Cameroon,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,TRUE
+27-Feb-22,1,Nuni Omot,22,20,4,8,50,2,6,33.3,2,2,100,10,13,76.9,2,5,7,0,2,0,2,4,14,20,Cameroon,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,TRUE
+27-Feb-22,4,Mareng Gatkuoth,21,14,5,11,45.5,1,1,100,4,10,40,0,0,0,0,0,0,2,0,0,2,2,4,8,Cameroon,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,TRUE
+27-Feb-22,6,Chudier James Bile,12,0,0,5,0,0,4,0,0,1,0,0,0,0,0,1,1,0,0,0,2,3,-8,-6,Cameroon,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,TRUE
+27-Feb-22,8,Kuany Ngor Kuany,32,6,2,8,25,0,2,0,2,6,33.3,0,0,0,0,5,5,0,0,0,4,4,8,1,Cameroon,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,TRUE
+27-Feb-22,9,Mathiang Mauot Muo,24,3,1,3,33.3,0,1,0,1,2,50,0,0,0,0,2,2,0,3,0,1,2,3,5,Cameroon,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,TRUE
+27-Feb-22,10,Padiet Wang,13,0,0,5,0,0,2,0,0,3,0,0,0,0,0,3,3,1,0,0,2,3,-7,-3,Cameroon,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,TRUE
+27-Feb-22,12,Deng Acuoth,27,3,1,1,100,1,1,100,0,0,0,1,2,50,0,6,6,1,2,4,1,1,13,14,Cameroon,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,TRUE
+27-Feb-22,15,Chol Beny Chuar Marial,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,-1,Cameroon,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,TRUE
+27-Feb-22,20,Anyiarbany Makoi,24,25,10,12,83.3,9,11,81.8,1,1,100,4,6,66.7,2,5,7,3,0,1,4,5,18,28,Cameroon,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,TRUE
+27-Feb-22,21,Koch Deng Aguer Bar,16,3,1,1,100,1,1,100,0,0,0,1,1,100,1,2,3,0,0,0,0,1,-12,6,Cameroon,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,TRUE
+28-Aug-22,0,Lual Acuil,19,3,1,5,20,1,5,20,0,0,0,1,2,50,3,7,10,1,1,1,3,2,12,8,Egypt,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,FALSE
+28-Aug-22,1,Nuni Omot,24,13,4,7,57.1,3,5,60,1,2,50,4,4,100,1,1,2,5,1,0,3,2,13,15,Egypt,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,FALSE
+28-Aug-22,4,Mareng Gatkuoth,19,2,1,5,20,1,1,100,0,4,0,0,0,0,0,1,1,1,1,0,1,2,2,0,Egypt,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,FALSE
+28-Aug-22,7,Bul Kuol,24,13,5,9,55.6,2,3,66.7,3,6,50,0,0,0,0,4,4,0,0,0,1,3,19,12,Egypt,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,FALSE
+28-Aug-22,8,Kuany Ngor Kuany,25,9,3,5,60,0,0,0,3,5,60,0,0,0,0,4,4,1,2,0,0,2,15,14,Egypt,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,FALSE
+28-Aug-22,10,Padiet Wang,3,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,3,0,-4,-2,Egypt,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,FALSE
+28-Aug-22,12,Deng Acuoth,21,4,1,3,33.3,1,3,33.3,0,0,0,2,2,100,1,4,5,2,0,0,1,4,11,8,Egypt,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,FALSE
+28-Aug-22,13,Majok Deng,17,7,3,7,42.9,2,3,66.7,1,4,25,0,1,0,1,3,4,0,2,3,1,2,10,10,Egypt,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,FALSE
+28-Aug-22,20,Anyiarbany Makoi,16,14,5,6,83.3,5,6,83.3,0,0,0,4,5,80,0,1,1,2,0,0,2,0,-1,13,Egypt,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,FALSE
+28-Aug-22,21,Koch Deng Aguer Bar,10,2,1,1,100,1,1,100,0,0,0,0,0,0,0,2,2,0,1,0,0,0,6,5,Egypt,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,FALSE
+28-Aug-22,35,Kur Nyok Kuath,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,1,-4,2,Egypt,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,FALSE
+28-Aug-22,44,Sunday Dech,25,18,7,13,53.8,4,7,57.1,3,6,50,1,2,50,0,2,2,5,0,0,0,1,21,18,Egypt,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,FALSE
+28-Aug-23,1,Nuni Omot,22,14,4,6,66.7,2,3,66.7,2,3,66.7,4,7,57.1,0,3,3,2,1,0,1,3,11,14,China,TRUE,Fiba Basketballworldcup 2023 ,Group B,First Round,FALSE
+28-Aug-23,2,Carlik Jones,30,21,7,15,46.7,4,11,36.4,3,4,75,4,6,66.7,2,0,2,6,0,0,1,1,14,18,China,TRUE,Fiba Basketballworldcup 2023 ,Group B,First Round,FALSE
+28-Aug-23,6,Khaman Madit Maluach,17,1,0,0,0,0,0,0,0,0,0,1,2,50,0,6,6,1,0,2,0,3,20,9,China,TRUE,Fiba Basketballworldcup 2023 ,Group B,First Round,FALSE
+28-Aug-23,8,Kuany Ngor Kuany,29,16,5,13,38.5,1,2,50,4,11,36.4,2,2,100,1,0,1,4,2,0,0,3,15,15,China,TRUE,Fiba Basketballworldcup 2023 ,Group B,First Round,FALSE
+28-Aug-23,11,Marial Shayok,28,13,5,11,45.5,3,7,42.9,2,4,50,1,1,100,2,1,3,2,1,0,1,3,10,12,China,TRUE,Fiba Basketballworldcup 2023 ,Group B,First Round,FALSE
+28-Aug-23,13,Majok Deng,25,12,4,8,50,3,4,75,1,4,25,3,4,75,2,3,5,0,0,1,2,2,14,11,China,TRUE,Fiba Basketballworldcup 2023 ,Group B,First Round,FALSE
+28-Aug-23,14,Dut Jok Kacuol,14,6,2,2,100,0,0,0,2,2,100,0,0,0,0,3,3,1,0,0,0,1,8,10,China,TRUE,Fiba Basketballworldcup 2023 ,Group B,First Round,FALSE
+28-Aug-23,21,Koch Deng Aguer Bar,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,China,TRUE,Fiba Basketballworldcup 2023 ,Group B,First Round,FALSE
+28-Aug-23,32,Wenyen Gabriel,21,3,1,3,33.3,1,2,50,0,1,0,1,2,50,1,4,5,0,0,0,0,3,0,5,China,TRUE,Fiba Basketballworldcup 2023 ,Group B,First Round,FALSE
+28-Aug-23,44,Sunday Dech,16,3,1,2,50,0,1,0,1,1,100,0,0,0,0,1,1,1,0,0,0,0,8,4,China,TRUE,Fiba Basketballworldcup 2023 ,Group B,First Round,FALSE
+28-Aug-23,0,Teny Bak Puot,20,10,2,6,33.3,0,3,0,2,3,66.7,4,4,100,0,5,5,4,1,0,3,0,8,13,China,TRUE,Fiba Basketballworldcup 2023 ,Group B,First Round,FALSE
+28-Aug-23,1,Anyiarbany Makoi,21,10,5,9,55.6,5,8,62.5,0,1,0,0,0,0,2,4,6,5,0,0,3,1,5,14,China,TRUE,Fiba Basketballworldcup 2023 ,Group B,First Round,FALSE
+28-Aug-23,2,Nyang Wek,23,4,1,4,25,1,4,25,0,0,0,2,2,100,1,5,6,0,1,1,0,2,7,9,China,TRUE,Fiba Basketballworldcup 2023 ,Group B,First Round,FALSE
+28-Aug-23,6,Deng Acuoth,19,11,3,4,75,2,3,66.7,1,1,100,4,4,100,4,0,4,1,1,0,2,1,8,14,China,TRUE,Fiba Basketballworldcup 2023 ,Group B,First Round,FALSE
+28-Aug-23,7,Aluk Lual Adub,16,8,3,6,50,2,5,40,1,1,100,1,2,50,1,2,3,0,0,0,1,1,7,6,China,TRUE,Fiba Basketballworldcup 2023 ,Group B,First Round,FALSE
+28-Aug-23,8,Kuany Ngor Kuany,28,7,3,16,18.8,2,9,22.2,1,7,14.3,0,0,0,1,3,4,2,0,0,1,1,5,-1,China,TRUE,Fiba Basketballworldcup 2023 ,Group B,First Round,FALSE
+28-Aug-23,9,Mathiang Mauot Muo,19,5,2,6,33.3,1,3,33.3,1,3,33.3,0,0,0,0,3,3,1,2,0,3,3,8,4,China,TRUE,Fiba Basketballworldcup 2023 ,Group B,First Round,FALSE
+28-Aug-23,10,Makuei Puondak,18,9,3,8,37.5,2,6,33.3,1,2,50,2,2,100,2,5,7,0,0,0,3,1,5,8,China,TRUE,Fiba Basketballworldcup 2023 ,Group B,First Round,FALSE
+28-Aug-23,11,Emmanuel Malou,22,7,3,6,50,2,4,50,1,2,50,0,0,0,2,4,6,2,0,1,4,1,5,9,China,TRUE,Fiba Basketballworldcup 2023 ,Group B,First Round,FALSE
+28-Aug-23,14,Deng Mayot Mabior,19,6,2,2,100,2,2,100,0,0,0,2,2,100,2,2,4,0,0,1,0,1,7,11,China,TRUE,Fiba Basketballworldcup 2023 ,Group B,First Round,FALSE
+29-Aug-21,0,Teny Bak Puot,2,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,3,-1,Uganda,TRUE,Fiba Afrobasket 2021 ,Group D,Group Phase,TRUE
+29-Aug-21,2,Nyang Wek,19,2,1,5,20,1,3,33.3,0,2,0,0,0,0,1,1,2,0,0,0,1,3,-6,-1,Uganda,TRUE,Fiba Afrobasket 2021 ,Group D,Group Phase,TRUE
+29-Aug-21,4,Mareng Gatkuoth,18,5,2,6,33.3,1,2,50,1,4,25,0,0,0,1,2,3,2,4,0,2,1,4,8,Uganda,TRUE,Fiba Afrobasket 2021 ,Group D,Group Phase,TRUE
+29-Aug-21,5,Junior Madut,14,5,2,6,33.3,2,5,40,0,1,0,1,2,50,2,0,2,2,0,1,0,1,8,5,Uganda,TRUE,Fiba Afrobasket 2021 ,Group D,Group Phase,TRUE
+29-Aug-21,6,Dhieu Abwok Deing,25,22,7,15,46.7,4,8,50,3,7,42.9,5,6,83.3,0,3,3,5,1,0,0,2,5,22,Uganda,TRUE,Fiba Afrobasket 2021 ,Group D,Group Phase,TRUE
+29-Aug-21,8,Kuany Ngor Kuany,36,13,4,14,28.6,3,8,37.5,1,6,16.7,4,5,80,4,3,7,2,0,0,1,4,6,10,Uganda,TRUE,Fiba Afrobasket 2021 ,Group D,Group Phase,TRUE
+29-Aug-21,9,Mathiang Mauot Muo,30,17,5,11,45.5,5,6,83.3,0,5,0,7,8,87.5,2,3,5,1,4,0,0,3,3,20,Uganda,TRUE,Fiba Afrobasket 2021 ,Group D,Group Phase,TRUE
+29-Aug-21,10,Makuei Puondak,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,7,-1,Uganda,TRUE,Fiba Afrobasket 2021 ,Group D,Group Phase,TRUE
+29-Aug-21,12,Deng Acuoth,34,13,4,8,50,4,8,50,0,0,0,5,8,62.5,5,13,18,3,0,4,1,2,3,30,Uganda,TRUE,Fiba Afrobasket 2021 ,Group D,Group Phase,TRUE
+29-Aug-21,20,Anyiarbany Makoi,17,9,3,6,50,2,5,40,1,1,100,2,3,66.7,1,1,2,2,1,0,1,4,-14,9,Uganda,TRUE,Fiba Afrobasket 2021 ,Group D,Group Phase,TRUE
+29-Aug-21,21,Koch Deng Aguer Bar,6,2,1,1,100,1,1,100,0,0,0,0,0,0,1,0,1,0,0,0,0,0,-9,3,Uganda,TRUE,Fiba Afrobasket 2021 ,Group D,Group Phase,TRUE
+29-Nov-20,0,Teny Bak Puot,13,11,4,8,50,1,4,25,3,4,75,0,0,0,1,0,1,1,0,0,2,1,-1,7,Rwanda,TRUE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,FALSE
+29-Nov-20,1,Anyiarbany Makoi,23,8,2,12,16.7,2,11,18.2,0,1,0,4,10,40,1,3,4,3,0,0,4,2,10,-5,Rwanda,TRUE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,FALSE
+29-Nov-20,2,Nyang Wek,15,5,2,3,66.7,2,3,66.7,0,0,0,1,2,50,2,6,8,0,1,0,2,2,1,10,Rwanda,TRUE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,FALSE
+29-Nov-20,3,Bol Bak,6,2,1,3,33.3,1,3,33.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,Rwanda,TRUE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,FALSE
+29-Nov-20,6,Deng Acuoth,23,12,3,5,60,3,5,60,0,0,0,6,6,100,2,4,6,0,0,3,2,1,10,17,Rwanda,TRUE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,FALSE
+29-Nov-20,7,Aluk Lual Adub,5,0,0,3,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,-4,Rwanda,TRUE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,FALSE
+29-Nov-20,8,Kuany Ngor Kuany,32,5,1,4,25,0,2,0,1,2,50,2,2,100,0,5,5,4,0,1,0,0,16,12,Rwanda,TRUE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,FALSE
+29-Nov-20,9,Mathiang Mauot Muo,18,3,1,4,25,0,1,0,1,3,33.3,0,0,0,0,1,1,1,0,0,0,2,-10,2,Rwanda,TRUE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,FALSE
+29-Nov-20,10,Makuei Puondak,26,13,3,8,37.5,2,5,40,1,3,33.3,6,8,75,3,5,8,0,3,0,1,0,11,16,Rwanda,TRUE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,FALSE
+29-Nov-20,11,Emmanuel Malou,27,8,2,7,28.6,2,5,40,0,2,0,4,4,100,3,3,6,0,2,1,2,3,18,10,Rwanda,TRUE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,FALSE
+29-Nov-20,12,Akoy Magut Agau,5,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,1,3,0,Rwanda,TRUE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,FALSE
+29-Nov-20,14,Deng Mayot Mabior,14,0,0,1,0,0,1,0,0,0,0,0,0,0,1,4,5,0,0,1,1,0,-1,4,Rwanda,TRUE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,FALSE
+02-Jul-22,0,Junior Madut,3,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,-6,0,Tunisia,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,TRUE
+02-Jul-22,1,Nuni Omot,35,16,4,10,40,3,6,50,1,4,25,7,9,77.8,1,2,3,1,1,0,2,2,19,11,Tunisia,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,TRUE
+02-Jul-22,4,Mareng Gatkuoth,15,12,4,5,80,0,1,0,4,4,100,0,0,0,0,1,1,2,0,0,2,0,5,12,Tunisia,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,TRUE
+02-Jul-22,7,Bul Kuol,22,8,2,6,33.3,0,0,0,2,6,33.3,2,2,100,0,2,2,2,1,1,1,4,14,9,Tunisia,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,TRUE
+02-Jul-22,8,Kuany Ngor Kuany,33,12,4,8,50,0,2,0,4,6,66.7,0,0,0,1,4,5,2,0,0,1,1,18,14,Tunisia,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,TRUE
+02-Jul-22,10,Padiet Wang,15,4,2,8,25,2,6,33.3,0,2,0,0,2,0,0,4,4,1,1,0,3,1,1,-1,Tunisia,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,TRUE
+02-Jul-22,12,Deng Acuoth,29,6,2,3,66.7,2,2,100,0,1,0,2,2,100,2,9,11,2,0,1,1,5,5,18,Tunisia,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,TRUE
+02-Jul-22,13,Majok Deng,6,2,1,3,33.3,1,1,100,0,2,0,0,0,0,0,1,1,0,0,0,1,2,-5,0,Tunisia,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,TRUE
+02-Jul-22,21,Koch Deng Aguer Bar,12,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4,1,0,1,0,3,9,6,Tunisia,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,TRUE
+02-Jul-22,44,Sunday Dech,35,15,5,16,31.2,3,10,30,2,6,33.3,3,3,100,1,2,3,8,0,0,0,1,10,15,Tunisia,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,TRUE
+02-Sep-21,0,Teny Bak Puot,11,5,2,5,40,1,3,33.3,1,2,50,0,0,0,0,1,1,1,0,0,0,2,-3,4,Tunisia,FALSE,Fiba Afrobasket 2021 ,,Quarter-Finals,FALSE
+02-Sep-21,2,Nyang Wek,15,0,0,2,0,0,2,0,0,0,0,0,0,0,1,1,2,0,0,0,0,2,-12,0,Tunisia,FALSE,Fiba Afrobasket 2021 ,,Quarter-Finals,FALSE
+02-Sep-21,4,Mareng Gatkuoth,24,9,3,9,33.3,0,2,0,3,7,42.9,0,0,0,1,2,3,6,0,0,2,1,1,10,Tunisia,FALSE,Fiba Afrobasket 2021 ,,Quarter-Finals,FALSE
+02-Sep-21,5,Junior Madut,24,14,6,11,54.5,4,7,57.1,2,4,50,0,0,0,1,4,5,2,2,0,3,3,-9,15,Tunisia,FALSE,Fiba Afrobasket 2021 ,,Quarter-Finals,FALSE
+02-Sep-21,6,Dhieu Abwok Deing,20,0,0,9,0,0,3,0,0,6,0,0,0,0,0,3,3,2,0,0,3,3,-12,-7,Tunisia,FALSE,Fiba Afrobasket 2021 ,,Quarter-Finals,FALSE
+02-Sep-21,8,Kuany Ngor Kuany,25,3,1,4,25,0,1,0,1,3,33.3,0,0,0,0,2,2,4,1,0,1,3,-7,6,Tunisia,FALSE,Fiba Afrobasket 2021 ,,Quarter-Finals,FALSE
+02-Sep-21,9,Mathiang Mauot Muo,23,10,3,8,37.5,1,4,25,2,4,50,2,2,100,2,2,4,1,1,0,1,4,-16,10,Tunisia,FALSE,Fiba Afrobasket 2021 ,,Quarter-Finals,FALSE
+02-Sep-21,10,Makuei Puondak,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,-2,0,Tunisia,FALSE,Fiba Afrobasket 2021 ,,Quarter-Finals,FALSE
+02-Sep-21,12,Deng Acuoth,37,13,6,12,50,5,8,62.5,1,4,25,0,2,0,0,6,6,1,0,1,2,0,-10,11,Tunisia,FALSE,Fiba Afrobasket 2021 ,,Quarter-Finals,FALSE
+02-Sep-21,20,Anyiarbany Makoi,14,5,2,3,66.7,1,2,50,1,1,100,0,0,0,1,1,2,1,1,0,4,0,-7,4,Tunisia,FALSE,Fiba Afrobasket 2021 ,,Quarter-Finals,FALSE
+02-Sep-21,21,Koch Deng Aguer Bar,9,6,2,4,50,2,4,50,0,0,0,2,3,66.7,2,1,3,0,0,1,0,0,2,7,Tunisia,FALSE,Fiba Afrobasket 2021 ,,Quarter-Finals,FALSE
+02-Sep-23,1,Nuni Omot,24,17,4,6,66.7,3,3,100,1,3,33.3,8,9,88.9,0,1,1,3,0,0,2,3,6,16,Angola,TRUE,Fiba Basketballworldcup 2023 ,Group M,Classification Round 17-32,FALSE
+02-Sep-23,2,Carlik Jones,34,26,10,15,66.7,8,12,66.7,2,3,66.7,4,5,80,1,6,7,15,0,0,2,4,37,40,Angola,TRUE,Fiba Basketballworldcup 2023 ,Group M,Classification Round 17-32,FALSE
+02-Sep-23,6,Khaman Madit Maluach,8,5,2,4,50,2,4,50,0,0,0,1,1,100,1,3,4,0,0,0,0,3,3,7,Angola,TRUE,Fiba Basketballworldcup 2023 ,Group M,Classification Round 17-32,FALSE
+02-Sep-23,8,Kuany Ngor Kuany,24,5,2,5,40,1,1,100,1,4,25,0,0,0,0,3,3,4,1,0,0,1,14,10,Angola,TRUE,Fiba Basketballworldcup 2023 ,Group M,Classification Round 17-32,FALSE
+02-Sep-23,11,Marial Shayok,27,18,6,10,60,3,5,60,3,5,60,3,4,75,1,2,3,2,1,0,0,3,25,19,Angola,TRUE,Fiba Basketballworldcup 2023 ,Group M,Classification Round 17-32,FALSE
+02-Sep-23,12,Deng Acuoth,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,-3,-1,Angola,TRUE,Fiba Basketballworldcup 2023 ,Group M,Classification Round 17-32,FALSE
+02-Sep-23,13,Majok Deng,27,10,2,7,28.6,1,1,100,1,6,16.7,5,7,71.4,1,3,4,1,2,3,2,1,21,11,Angola,TRUE,Fiba Basketballworldcup 2023 ,Group M,Classification Round 17-32,FALSE
+02-Sep-23,14,Dut Jok Kacuol,18,3,1,4,25,0,2,0,1,2,50,0,0,0,0,1,1,0,0,0,1,2,-3,0,Angola,TRUE,Fiba Basketballworldcup 2023 ,Group M,Classification Round 17-32,FALSE
+02-Sep-23,21,Koch Deng Aguer Bar,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,2,-8,2,Angola,TRUE,Fiba Basketballworldcup 2023 ,Group M,Classification Round 17-32,FALSE
+02-Sep-23,32,Wenyen Gabriel,28,15,5,7,71.4,5,7,71.4,0,0,0,5,7,71.4,3,7,10,1,0,6,1,4,31,27,Angola,TRUE,Fiba Basketballworldcup 2023 ,Group M,Classification Round 17-32,FALSE
+02-Sep-23,44,Sunday Dech,10,2,1,3,33.3,1,3,33.3,0,0,0,0,0,0,0,1,1,0,1,0,2,1,-8,0,Angola,TRUE,Fiba Basketballworldcup 2023 ,Group M,Classification Round 17-32,FALSE
+30-Aug-23,0,Junior Madut,6,0,0,2,0,0,0,0,0,2,0,0,0,0,0,1,1,1,0,0,0,0,-9,0,Serbia,FALSE,Fiba Basketballworldcup 2023 ,Group B,First Round,TRUE
+30-Aug-23,1,Nuni Omot,31,17,6,7,85.7,4,4,100,2,3,66.7,3,4,75,1,4,5,0,0,0,0,3,-27,20,Serbia,FALSE,Fiba Basketballworldcup 2023 ,Group B,First Round,TRUE
+30-Aug-23,2,Carlik Jones,22,3,1,5,20,1,4,25,0,1,0,1,2,50,0,0,0,6,0,0,0,2,-31,4,Serbia,FALSE,Fiba Basketballworldcup 2023 ,Group B,First Round,TRUE
+30-Aug-23,6,Khaman Madit Maluach,14,2,1,5,20,1,3,33.3,0,2,0,0,0,0,2,1,3,0,0,0,1,2,-16,0,Serbia,FALSE,Fiba Basketballworldcup 2023 ,Group B,First Round,TRUE
+30-Aug-23,8,Kuany Ngor Kuany,22,6,2,7,28.6,0,2,0,2,5,40,0,0,0,0,0,0,3,1,0,1,4,-14,4,Serbia,FALSE,Fiba Basketballworldcup 2023 ,Group B,First Round,TRUE
+30-Aug-23,11,Marial Shayok,16,12,4,7,57.1,2,2,100,2,5,40,2,2,100,0,4,4,2,0,0,2,1,-20,13,Serbia,FALSE,Fiba Basketballworldcup 2023 ,Group B,First Round,TRUE
+30-Aug-23,12,Deng Acuoth,16,3,1,3,33.3,1,3,33.3,0,0,0,1,1,100,2,0,2,1,2,0,1,1,-12,5,Serbia,FALSE,Fiba Basketballworldcup 2023 ,Group B,First Round,TRUE
+30-Aug-23,13,Majok Deng,22,10,5,10,50,5,6,83.3,0,4,0,0,0,0,1,2,3,0,1,0,0,1,-7,9,Serbia,FALSE,Fiba Basketballworldcup 2023 ,Group B,First Round,TRUE
+30-Aug-23,14,Dut Jok Kacuol,26,21,7,10,70,1,1,100,6,9,66.7,1,1,100,0,2,2,3,2,0,1,3,-13,24,Serbia,FALSE,Fiba Basketballworldcup 2023 ,Group B,First Round,TRUE
+30-Aug-23,32,Wenyen Gabriel,14,4,1,5,20,1,4,25,0,1,0,2,4,50,0,0,0,2,0,2,3,4,-10,-1,Serbia,FALSE,Fiba Basketballworldcup 2023 ,Group B,First Round,TRUE
+30-Aug-23,44,Sunday Dech,19,5,2,4,50,1,3,33.3,1,1,100,0,2,0,0,0,0,4,1,0,2,0,-1,4,Serbia,FALSE,Fiba Basketballworldcup 2023 ,Group B,First Round,TRUE
+31-Aug-21,2,Nyang Wek,19,4,2,3,66.7,2,2,100,0,1,0,0,0,0,2,0,2,1,1,0,2,1,4,5,Kenya,TRUE,Fiba Afrobasket 2021 ,,Qualif. to 1/4,TRUE
+31-Aug-21,4,Mareng Gatkuoth,21,10,3,8,37.5,1,2,50,2,6,33.3,2,2,100,0,5,5,3,1,0,1,0,-2,13,Kenya,TRUE,Fiba Afrobasket 2021 ,,Qualif. to 1/4,TRUE
+31-Aug-21,5,Junior Madut,17,2,1,8,12.5,1,3,33.3,0,5,0,0,0,0,3,1,4,4,0,0,0,1,8,3,Kenya,TRUE,Fiba Afrobasket 2021 ,,Qualif. to 1/4,TRUE
+31-Aug-21,6,Dhieu Abwok Deing,19,6,2,12,16.7,1,5,20,1,7,14.3,1,1,100,1,1,2,1,0,0,1,0,-6,-2,Kenya,TRUE,Fiba Afrobasket 2021 ,,Qualif. to 1/4,TRUE
+31-Aug-21,8,Kuany Ngor Kuany,30,14,3,11,27.3,3,5,60,0,6,0,8,11,72.7,1,3,4,2,5,0,4,4,2,10,Kenya,TRUE,Fiba Afrobasket 2021 ,,Qualif. to 1/4,TRUE
+31-Aug-21,9,Mathiang Mauot Muo,36,9,3,14,21.4,0,4,0,3,10,30,0,0,0,2,8,10,0,0,1,2,1,4,7,Kenya,TRUE,Fiba Afrobasket 2021 ,,Qualif. to 1/4,TRUE
+31-Aug-21,10,Makuei Puondak,2,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,3,-2,Kenya,TRUE,Fiba Afrobasket 2021 ,,Qualif. to 1/4,TRUE
+31-Aug-21,12,Deng Acuoth,31,6,3,6,50,3,5,60,0,1,0,0,0,0,2,3,5,1,2,2,0,2,7,13,Kenya,TRUE,Fiba Afrobasket 2021 ,,Qualif. to 1/4,TRUE
+31-Aug-21,15,Deng Mayot Mabior,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,3,1,Kenya,TRUE,Fiba Afrobasket 2021 ,,Qualif. to 1/4,TRUE
+31-Aug-21,20,Anyiarbany Makoi,19,4,1,7,14.3,1,4,25,0,3,0,2,4,50,1,3,4,6,0,1,1,2,-5,6,Kenya,TRUE,Fiba Afrobasket 2021 ,,Qualif. to 1/4,TRUE
+31-Aug-21,21,Koch Deng Aguer Bar,7,5,1,2,50,1,2,50,0,0,0,3,4,75,1,0,1,0,1,0,0,0,-8,5,Kenya,TRUE,Fiba Afrobasket 2021 ,,Qualif. to 1/4,TRUE
+31-Aug-23,1,Nuni Omot,26,13,3,7,42.9,1,4,25,2,3,66.7,5,5,100,0,3,3,3,1,1,2,1,10,15,Philippines,TRUE,Fiba Basketballworldcup 2023 ,Group M,Classification Round 17-32,TRUE
+31-Aug-23,2,Carlik Jones,30,17,7,20,35,5,12,41.7,2,8,25,1,1,100,1,8,9,14,2,0,1,3,30,28,Philippines,TRUE,Fiba Basketballworldcup 2023 ,Group M,Classification Round 17-32,TRUE
+31-Aug-23,6,Khaman Madit Maluach,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,1,0,1,-1,3,Philippines,TRUE,Fiba Basketballworldcup 2023 ,Group M,Classification Round 17-32,TRUE
+31-Aug-23,8,Kuany Ngor Kuany,23,8,3,7,42.9,1,2,50,2,5,40,0,0,0,2,4,6,2,1,0,0,2,16,13,Philippines,TRUE,Fiba Basketballworldcup 2023 ,Group M,Classification Round 17-32,TRUE
+31-Aug-23,11,Marial Shayok,25,12,4,11,36.4,3,8,37.5,1,3,33.3,3,4,75,0,1,1,2,0,0,0,0,0,7,Philippines,TRUE,Fiba Basketballworldcup 2023 ,Group M,Classification Round 17-32,TRUE
+31-Aug-23,12,Deng Acuoth,12,3,1,1,100,0,0,0,1,1,100,0,0,0,0,2,2,0,0,0,0,0,-2,5,Philippines,TRUE,Fiba Basketballworldcup 2023 ,Group M,Classification Round 17-32,TRUE
+31-Aug-23,13,Majok Deng,27,13,5,9,55.6,3,4,75,2,5,40,1,1,100,2,5,7,0,1,0,2,2,19,15,Philippines,TRUE,Fiba Basketballworldcup 2023 ,Group M,Classification Round 17-32,TRUE
+31-Aug-23,14,Dut Jok Kacuol,17,8,3,9,33.3,1,3,33.3,2,6,33.3,0,0,0,0,1,1,1,1,0,2,2,0,3,Philippines,TRUE,Fiba Basketballworldcup 2023 ,Group M,Classification Round 17-32,TRUE
+31-Aug-23,32,Wenyen Gabriel,25,11,4,7,57.1,4,6,66.7,0,1,0,3,4,75,4,8,12,1,0,2,1,3,22,21,Philippines,TRUE,Fiba Basketballworldcup 2023 ,Group M,Classification Round 17-32,TRUE
+31-Aug-23,44,Sunday Dech,16,2,1,5,20,1,4,25,0,1,0,0,0,0,1,1,2,2,1,0,1,0,1,2,Philippines,TRUE,Fiba Basketballworldcup 2023 ,Group M,Classification Round 17-32,TRUE
+03-Jul-22,0,Junior Madut,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,0,1,1,1,-8,2,Cameroon,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,FALSE
+03-Jul-22,1,Nuni Omot,30,17,3,9,33.3,0,5,0,3,4,75,8,10,80,1,3,4,3,1,0,3,2,6,14,Cameroon,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,FALSE
+03-Jul-22,4,Mareng Gatkuoth,21,8,3,9,33.3,2,2,100,1,7,14.3,1,1,100,0,1,1,1,0,0,3,2,8,1,Cameroon,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,FALSE
+03-Jul-22,7,Bul Kuol,23,17,5,12,41.7,2,3,66.7,3,9,33.3,4,6,66.7,0,3,3,0,2,1,1,4,-3,13,Cameroon,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,FALSE
+03-Jul-22,8,Kuany Ngor Kuany,22,5,1,3,33.3,0,0,0,1,3,33.3,2,2,100,1,8,9,3,0,0,2,4,14,13,Cameroon,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,FALSE
+03-Jul-22,9,Mathiang Mauot Muo,5,0,0,2,0,0,0,0,0,2,0,0,0,0,0,1,1,0,0,0,0,0,4,-1,Cameroon,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,FALSE
+03-Jul-22,10,Padiet Wang,21,6,2,5,40,0,2,0,2,3,66.7,0,4,0,1,5,6,4,1,0,2,4,13,8,Cameroon,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,FALSE
+03-Jul-22,12,Deng Acuoth,12,1,0,0,0,0,0,0,0,0,0,1,2,50,0,2,2,0,1,0,0,0,13,3,Cameroon,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,FALSE
+03-Jul-22,13,Majok Deng,14,6,2,5,40,2,3,66.7,0,2,0,2,2,100,0,2,2,0,1,0,0,0,1,6,Cameroon,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,FALSE
+03-Jul-22,21,Koch Deng Aguer Bar,28,5,1,2,50,1,2,50,0,0,0,3,4,75,1,1,2,0,1,3,0,0,2,9,Cameroon,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,FALSE
+03-Jul-22,44,Sunday Dech,23,2,1,6,16.7,1,4,25,0,2,0,0,0,0,1,2,3,3,0,0,0,4,5,3,Cameroon,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,FALSE

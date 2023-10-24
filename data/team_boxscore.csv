@@ -1,0 +1,37 @@
+date,minutes,points,field_goals_made,field_goals_attempts,field_goals_pct,two_points_made,two_points_attempts,two_points_pct,three_points_made,three_points_attempts,three_points_pct,free_throws_made,free_throws_attempts,free_throws_pct,offensive_rebounds,defensive_rebounds,rebounds,assists,steals,blocks,turnovers,personal_fouls,plus_minus,efficiency,opponent,win,competition,group,phase,home
+14-Jan-20,200,112,38,67,56.7,27,46,58.7,11,21,52.4,25,32,78.1,15,37,52,9,5,6,13,18,33,147,Somalia,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,TRUE
+14-Mar-17,200,68,24,51,47.1,19,40,47.5,5,11,45.5,15,21,71.4,16,28,44,12,4,3,28,14,2,71,Kenya,TRUE,Fiba Afrobasketqualifiers 2017 ,Group A,Zone 5 - Qualifiers,TRUE
+15-Jan-20,200,111,41,71,57.7,34,54,63,7,17,41.2,22,32,68.8,13,38,51,24,14,2,13,3,54,143,Eritrea,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,FALSE
+15-Mar-17,200,80,29,76,38.2,19,52,36.5,10,24,41.7,12,14,85.7,17,24,41,12,6,2,13,24,-10,71,Rwanda,FALSE,Fiba Afrobasketqualifiers 2017 ,Group A,Zone 5 - Qualifiers,TRUE
+16-Jan-20,200,100,33,74,44.6,20,39,51.3,13,35,37.1,21,25,84,16,35,51,14,7,2,14,12,41,113,Burundi,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,FALSE
+17-Feb-21,200,70,26,69,37.7,19,39,48.7,7,30,23.3,11,16,68.8,18,26,44,14,6,3,17,17,-5,68,Nigeria,FALSE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,TRUE
+17-Jan-20,200,115,45,84,53.6,30,51,58.8,15,33,45.5,10,12,83.3,13,37,50,25,14,1,7,12,55,152,Tanzania,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,FALSE
+17-Mar-17,225,89,33,83,39.8,26,54,48.1,7,29,24.1,16,18,88.9,21,43,64,23,5,5,20,26,5,110,Kenya,TRUE,Fiba Afrobasketqualifiers 2017 ,,Zone 5 - Classification,FALSE
+18-Feb-21,200,69,22,62,35.5,13,36,36.1,9,26,34.6,16,21,76.2,10,32,42,9,6,4,13,18,4,67,Mali,TRUE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,FALSE
+18-Jan-20,200,68,21,63,33.3,13,35,37.1,8,28,28.6,18,35,51.4,19,34,53,9,1,2,16,19,-6,45,Kenya,FALSE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,Group D,TRUE
+19-Feb-21,225,58,20,57,35.1,14,33,42.4,6,24,25,12,16,75,8,40,48,9,10,2,31,11,-4,50,Rwanda,FALSE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,TRUE
+01-Jul-22,200,73,26,69,37.7,12,31,38.7,14,38,36.8,7,11,63.6,11,35,46,19,5,1,14,23,10,83,Rwanda,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,FALSE
+23-Oct-20,200,85,28,75,37.3,16,37,43.2,12,38,31.6,17,23,73.9,20,30,50,21,2,4,17,28,-6,85,Cape Verde,FALSE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,invitational Tournament,FALSE
+24-Feb-23,200,83,27,61,44.3,18,40,45,9,21,42.9,20,27,74.1,11,37,48,22,6,0,14,16,8,101,Senegal,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,TRUE
+24-Oct-20,200,100,31,61,50.8,21,28,75,10,33,30.3,28,40,70,13,40,53,27,7,6,20,20,31,125,Chad,TRUE,Fiba Afrobasket 2021 Pre Qualifiers,Group A,invitational Tournament,TRUE
+25-Feb-22,200,68,25,58,43.1,16,35,45.7,9,23,39.1,9,15,60,10,31,41,11,5,2,15,12,12,67,Rwanda,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,TRUE
+25-Feb-23,200,82,28,58,48.3,18,23,78.3,10,35,28.6,16,18,88.9,12,24,36,22,14,5,20,13,21,106,Congo DR,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,FALSE
+26-Aug-22,200,66,24,59,40.7,17,34,50,7,25,28,11,22,50,8,37,45,18,3,3,14,16,-3,74,Senegal,FALSE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,FALSE
+26-Aug-23,225,96,34,67,50.7,24,41,58.5,10,26,38.5,18,24,75,10,28,38,23,10,4,21,23,-5,111,Puerto Rico,FALSE,Fiba Basketballworldcup 2023 ,Group B,First Round,TRUE
+26-Feb-22,200,72,27,56,48.2,18,35,51.4,9,21,42.9,9,15,60,9,27,36,11,8,3,15,16,8,75,Tunisia,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,FALSE
+26-Feb-23,200,97,32,68,47.1,21,40,52.5,11,28,39.3,22,26,84.6,12,38,50,26,4,5,11,23,20,126,Egypt,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,TRUE
+26-Nov-20,200,56,20,62,32.3,18,49,36.7,2,13,15.4,14,21,66.7,14,35,49,9,4,2,23,14,-20,45,Nigeria,FALSE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,FALSE
+27-Aug-21,200,75,27,77,35.1,12,39,30.8,15,38,39.5,6,10,60,16,28,44,16,8,3,22,20,-29,65,Senegal,FALSE,Fiba Afrobasket 2021 ,Group D,Group Phase,TRUE
+27-Aug-22,200,101,37,67,55.2,23,37,62.2,14,30,46.7,13,18,72.2,11,35,46,26,9,4,15,15,43,131,Congo DR,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,TRUE
+27-Feb-22,200,74,24,54,44.4,14,29,48.3,10,25,40,16,22,72.7,6,29,35,7,7,5,19,27,6,72,Cameroon,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,TRUE
+28-Aug-22,200,85,31,62,50,20,34,58.8,11,28,39.3,12,16,75,8,33,41,17,9,4,16,20,20,103,Egypt,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group F,2nd Round,FALSE
+28-Aug-23,200,89,29,60,48.3,14,30,46.7,15,30,50,16,24,66.7,10,24,34,17,4,3,5,20,20,98,China,TRUE,Fiba Basketballworldcup 2023 ,Group B,First Round,FALSE
+29-Aug-21,200,88,29,73,39.7,23,46,50,6,27,22.2,24,32,75,17,27,44,17,10,5,9,23,2,104,Uganda,TRUE,Fiba Afrobasket 2021 ,Group D,Group Phase,TRUE
+29-Nov-20,200,67,19,59,32.2,13,42,31,6,17,35.3,23,32,71.9,17,34,51,9,6,6,16,12,12,69,Rwanda,TRUE,Fiba Afrobasket 2021 Qualifiers,Group D,Group Phase,FALSE
+02-Jul-22,200,75,24,60,40,11,28,39.3,13,32,40.6,14,18,77.8,9,36,45,19,3,3,12,20,14,84,Tunisia,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,TRUE
+02-Sep-21,200,65,25,67,37.3,14,36,38.9,11,31,35.5,4,7,57.1,10,26,36,18,5,2,17,19,-15,60,Tunisia,FALSE,Fiba Afrobasket 2021 ,,Quarter-Finals,FALSE
+02-Sep-23,200,101,33,61,54.1,24,38,63.2,9,23,39.1,26,33,78.8,10,31,41,26,5,9,11,26,23,131,Angola,TRUE,Fiba Basketballworldcup 2023 ,Group M,Classification Round 17-32,FALSE
+30-Aug-23,200,83,30,65,46.2,17,32,53.1,13,33,39.4,10,16,62.5,8,17,25,22,7,2,13,22,-32,82,Serbia,FALSE,Fiba Basketballworldcup 2023 ,Group B,First Round,TRUE
+31-Aug-21,200,60,19,73,26,13,32,40.6,6,41,14.6,16,22,72.7,18,29,47,18,10,4,14,11,2,59,Kenya,TRUE,Fiba Afrobasket 2021 ,,Qualif. to 1/4,TRUE
+31-Aug-23,200,87,31,76,40.8,19,43,44.2,12,33,36.4,13,15,86.7,11,35,46,25,7,4,9,14,19,112,Philippines,TRUE,Fiba Basketballworldcup 2023 ,Group M,Classification Round 17-32,TRUE
+03-Jul-22,200,67,18,53,34,8,21,38.1,10,32,31.2,21,31,67.7,9,31,40,14,7,5,13,22,11,71,Cameroon,TRUE,Fiba Basketballworldcup 2023 African Qualifiers,Group B,1st Round,FALSE
