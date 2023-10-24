@@ -37,10 +37,6 @@ players_stats['date'] = players_stats['date'].dt.strftime("%d-%m-%Y")
 games_in_brief = get_data("data/games_in_brief.csv")
 
 
-def build_comparision_table(player1_stats, player2_stats):
-    pass
-
-
 # ------------------------- Page Header -------------------------
 st.header("South Sudan Basketball Stats")
 cover_container = st.container()

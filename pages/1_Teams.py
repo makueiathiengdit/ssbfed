@@ -28,12 +28,18 @@ men_team_tab, women_team_tab, men_afrocan_tab, junior_team_tab = st.tabs(teams)
 
 with men_team_tab:
     st.info("Senior men's team (The Bright Stars)")
+    st.success("This page is still under development.")
 with women_team_tab:
     st.info("Senior Women's team (The Bright Starlets)")
+    st.success("This page is still under development.")
+
 with men_afrocan_tab:
     st.info("Snior men's afrocan team")
+    st.success("This page is still under development.")
+
 with junior_team_tab:
     st.info("Welcome to South Sudan Junior teams (The Next Gen)")
+    st.success("This page is still under development.")
 
 
 footer()
