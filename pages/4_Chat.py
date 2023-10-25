@@ -88,7 +88,7 @@ if query:
         response = "Hi there"
     elif "awet" in query:
         response = "Awet Thon is a supper fan of South Sudan basketball"
-    if "nyassd" in query:
+    elif "nyassd" in query:
         response = "I am South Sudan basketball chatbot.\
                   you can ask me any question about south sudan basketball"
     else:
