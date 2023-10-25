@@ -105,4 +105,8 @@ if query:
         st.markdown(response)
     st.session_state.messages.append(
         {"role": "assistant", "content": response})
-    log_query(query)
+
+    try:
+        log_query(query)
+    except:
+        pass
