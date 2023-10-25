@@ -1,0 +1,77 @@
+.game-card {
+  width: 45%;
+  height: 5%;
+  /* border-top: 15px solid #034d35; */
+  /* border: 1px solid black; */
+  margin: 15px;
+  padding: 5px;
+
+  border-top-color: #034d35;
+  border-radius: 8px;
+  /* background-color: #7fd8abc3; */
+  background-color: hsla(171, 84%, 78%, 0.776);
+  box-shadow: 0px 1.4px 3px rgba(4, 23, 1, 0.25);
+}
+
+.game-date,
+h6 {
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  color: #333;
+  margin: 2px;
+}
+
+.game-results {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.team-a,
+.team-b {
+  width: 50%;
+  text-align: center;
+}
+
+.team-a h2,
+.team-b h2 {
+  font-size: 22px;
+  font-weight: bolder;
+  color: #333;
+}
+
+.team-a h3,
+.team-b h3 {
+  font-size: 20px;
+  font-weight: bolder;
+  color: #333;
+}
+
+.team-a {
+  border-right: 1.5px solid #333;
+}
+
+.team-b {
+  border-left: 1.5px solid #333;
+}
+
+.game-card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+@media screen and (max-width: 768px) {
+  .game-card {
+    width: 100%;
+  }
+}
+
+.winner-a {
+  border-left: 10px solid #034d35;
+}
+
+.winner-b {
+  border-right: 10px solid #034d35;
+}

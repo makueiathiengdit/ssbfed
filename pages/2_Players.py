@@ -16,24 +16,24 @@ st.set_page_config(
 )
 
 internet_available = True
-loading_container = st.empty()
+# loading_container = st.empty()
 
-with loading_container:
-    with st.status(label="Fetching players data...", state='running') as status:
-        internet_available = check_connection()
-        if internet_available:
-            status.update(label="done", state='complete')
-        else:
-            status.update(
-                label="There is no internet connection", state='error')
-        st.write("")
+# with loading_container:
+#     with st.status(label="Fetching players data...", state='running') as status:
+#         internet_available = check_connection()
+#         if internet_available:
+#             status.update(label="done", state='complete')
+#         else:
+#             status.update(
+#                 label="There is no internet connection", state='error')
+#         st.write("")
 
-if "internet_availabe" not in st.session_state:
-    st.session_state['internet_available'] = internet_available
+# if "internet_availabe" not in st.session_state:
+#     st.session_state['internet_available'] = internet_available
 
 
-if not internet_available:
-    st.toast("No internet connection", icon="😔")
+# if not internet_available:
+#     st.toast("No internet connection", icon="😔")
 
 st.markdown("""
             <style>

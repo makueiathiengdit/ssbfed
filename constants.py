@@ -10,3 +10,6 @@ STATS_VARIABLES = {"Points": "points",
                    "Steals": "steals",
                    "Blocks": "blocks",
                    }
+
+
+APP_VERSION = 1.0

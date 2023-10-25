@@ -1,7 +1,7 @@
 import streamlit as st
 from PIL import Image
 import requests
-
+from utils import log_query
 API_URL = "https://api-inference.huggingface.co/models/deepset/roberta-base-squad2"
 headers = {"Authorization": f"Bearer {st.secrets['HUGGING_FACE_API_KEY']}"}
 
@@ -86,7 +86,13 @@ if query:
     query = query.lower()
     if "hello" in query or "hi" in query or 'hey' in query:
         response = "Hi there"
+    elif "awet" in query:
+        response = "Awet Thon is a supper fan of South Sudan basketball"
+    if "nyassd" in query:
+        response = "I am South Sudan basketball chatbot.\
+                  you can ask me any question about south sudan basketball"
     else:
+        # temporarily disabled real NyaSSD model, to collect more data.
         # response = nyassd_request(query_payload)
         # try:
         #     response = response['answer']
@@ -99,3 +105,4 @@ if query:
         st.markdown(response)
     st.session_state.messages.append(
         {"role": "assistant", "content": response})
+    log_query(query)

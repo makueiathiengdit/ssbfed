@@ -1,6 +1,8 @@
 import streamlit as st
 import pandas as pd
 import requests
+from constants import APP_VERSION
+import datetime
 
 
 @st.cache_data
@@ -206,3 +208,18 @@ def footer():
     with c3:
         st.info(
             '**GitHub: [@awetthon](https://github.com/makueiathiengdit)**', icon="💻")
+    # with st.sidebar():
+
+
+def log_query(query):
+    date = datetime.datetime.now()
+    with open('log.txt', 'a') as f:
+        f.write(f"{date} {query}")
+        f.write("\n")
+
+
+def load_css(filename):
+    styles = ""
+    with open(filename, 'r') as f:
+        styles = f.read()
+    return styles

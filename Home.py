@@ -8,7 +8,7 @@ import plotly.graph_objects as go
 from PIL import Image
 from streamlit_extras.metric_cards import style_metric_cards
 from utils import get_data, tiny_name, set_precision, footer
-from constants import STATS_VARIABLES
+from constants import STATS_VARIABLES, APP_VERSION
 favicon = Image.open("favicon.png")
 cover_pic = Image.open("cover.png")
 
@@ -16,7 +16,12 @@ cover_pic = Image.open("cover.png")
 st.set_page_config(
     page_title="South Sudan Basketball Stats",
     page_icon=favicon,
-    initial_sidebar_state="collapsed"
+    initial_sidebar_state="collapsed",
+    menu_items={
+        'Get Help': "https://twitter.com/awetthon",
+        'Report a bug': "https://twitter.com/awetthon",
+        'About ': "# South Sudan Basketball Stats web app built with ❤ by [Awet Thon](twitter.com/awetthon)"
+    }
 )
 
 
@@ -401,6 +406,7 @@ with open("images/animation.json", 'r') as f:
 with st.sidebar:
     st.info("Oh my... Wang!! throws it down!!!")
     st_lottie(lottie)
+    st.subheader(f"Version {APP_VERSION}")
 
 
 with p_tab:
