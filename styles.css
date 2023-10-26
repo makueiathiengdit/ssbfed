@@ -89,6 +89,7 @@ footer::after {
   color: #034d35;
 }
 
-.viewerBadge_link__qRIco {
+div.viewerBadge_link__qRIco {
   visibility: hidden;
+  display: none;
 }
