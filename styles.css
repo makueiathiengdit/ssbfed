@@ -88,3 +88,7 @@ footer::after {
   content: "version 1.1";
   color: #034d35;
 }
+
+.viewerBadge_link__qRIco {
+  visibility: hidden;
+}
