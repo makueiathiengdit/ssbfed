@@ -382,11 +382,11 @@ def nyassd(prompt):
 with chat_tab:
     st.info("Hello 🙋🏿‍♀️, My name is NyaSSD, South Sudan basketball chatbot. you can ask me any question about south sudan basketball")
 
-    question = st.text_area(label="Question", label_visibility="hidden",
-                            placeholder="Ask me any question about south sudan basketball e.g who is the best three point shooter", disabled=True)
+    # question = st.text_area(label="Question", label_visibility="hidden",
+    #                         placeholder="Ask me any question about south sudan basketball e.g who is the best three point shooter", disabled=True)
 
-    submit = st.button("Ask", type="primary", use_container_width=True)
-    reply_container = st.empty()
+    # submit = st.button("Ask", type="primary", use_container_width=True)
+    # reply_container = st.empty()
     st.info("To chat, click [here](/Chat)")
 
     # if submit and question is not None:

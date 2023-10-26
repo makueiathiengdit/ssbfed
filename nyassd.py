@@ -12,8 +12,15 @@ def nyassd_request(payload):
     try:
         payload = json.dumps(payload)
         response = requests.post(API_URL, headers=headers, data=payload)
-        return response.json()
+        response = response.json()
+
+        if "error" in response:
+            response = {
+                "error": "Something went wrong on our side. And we're working on it"}
+        return response
     except requests.ConnectionError:
-        return {'error': True, 'message': 'No internet connection'}
-    except:
-        return {'error': True,  'message': 'Something went wrong'}
+        response = {"error": "No internet connection"}
+        return response
+    except Exception:
+        response = {"error": "Something went wrong"}
+        return response

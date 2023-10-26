@@ -52,14 +52,18 @@ if query:
     }
 
     results = nyassd_request(payload)
+    response = ""
 
-    if 'error' in results:
-        response = results['message']
-    elif 'generated_text' in results:
-        response = results['generated_text']
-    else:
+    try:
+
+        if 'error' in results:
+            response = results["error"]
+        elif 'generated_text' in results:
+            response = results["generated_text"]
+        else:
+            response = "Sorry i did not understand. i am still under development"
+    except Exception:
         response = "Sorry i did not understand. i am still under development"
-        # st.write(results)
 
     with st.chat_message(name="assistant"):
         st.markdown(response)
