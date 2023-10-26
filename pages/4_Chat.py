@@ -48,7 +48,7 @@ for message in st.session_state['messages']:
         st.markdown(message['content'])
 
 query = st.chat_input(
-    "Ask me about South Sudan basketball e.g who is the president of SSBF")
+    "Ask me about South Sudan basketball")
 if query:
     query = str(query).strip()
     with st.chat_message(name="user"):
