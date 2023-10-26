@@ -1,6 +1,6 @@
 import streamlit as st
 from PIL import Image
-from utils import log_query
+from utils import log_query, load_css
 from nyassd import nyassd_request
 favicon = Image.open("favicon.png")
 
@@ -55,7 +55,6 @@ if query:
     response = ""
 
     try:
-
         if 'error' in results:
             response = results["error"]
         elif 'generated_text' in results:
@@ -77,3 +76,10 @@ if query:
         log_query(response)
     except:
         pass
+
+
+try:
+    css = load_css("styles.css")
+    st.markdown(f"<style>{css}<style>", unsafe_allow_html=True)
+except:
+    pass

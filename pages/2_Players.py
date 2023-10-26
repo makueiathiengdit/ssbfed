@@ -1,4 +1,4 @@
-from utils import shorten, condensed_stats, title_cast, footer, get_value, check_connection
+from utils import shorten, condensed_stats, title_cast, footer, get_value, load_css
 import streamlit as st
 
 import pandas as pd
@@ -15,6 +15,12 @@ st.set_page_config(
     layout="wide"
 )
 
+
+try:
+    css = load_css("styles.css")
+    st.markdown(f"<style>{css}<style>", unsafe_allow_html=True)
+except:
+    pass
 internet_available = True
 # loading_container = st.empty()
 

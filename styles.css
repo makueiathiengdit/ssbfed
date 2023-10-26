@@ -75,3 +75,16 @@ h6 {
 .winner-b {
   border-right: 10px solid #034d35;
 }
+
+#MainMenu {
+  visibility: hidden;
+}
+
+footer {
+  visibility: hidden;
+}
+
+footer::after {
+  content: "version 1.1";
+  color: #034d35;
+}

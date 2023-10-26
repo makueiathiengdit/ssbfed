@@ -7,7 +7,7 @@ import pandas as pd
 import plotly.graph_objects as go
 from PIL import Image
 from streamlit_extras.metric_cards import style_metric_cards
-from utils import get_data, tiny_name, set_precision, footer
+from utils import get_data, tiny_name, set_precision, footer, load_css
 from constants import STATS_VARIABLES, APP_VERSION
 favicon = Image.open("favicon.png")
 cover_pic = Image.open("cover.png")
@@ -504,3 +504,9 @@ if st.session_state.get('first_time', True):
 
     st.toast(
         "We recommend viewing this site on device with large screen for better experience. 🙏🏿")
+
+try:
+    css = load_css("styles.css")
+    st.markdown(f"<style>{css}<style>", unsafe_allow_html=True)
+except:
+    pass

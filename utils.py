@@ -194,6 +194,13 @@ def set_precision(val):
     return f"{val:.2f}"
 
 
+def load_css(filename):
+    styles = ""
+    with open(filename, 'r') as f:
+        styles = f.read()
+    return styles
+
+
 def footer():
     st.divider()
     st.success("Built with ❤ by **Awet Thon**")
@@ -209,6 +216,8 @@ def footer():
         st.info(
             '**GitHub: [@awetthon](https://github.com/makueiathiengdit)**', icon="💻")
     # with st.sidebar():
+    # css = load_css("styles.css")
+    # st.markdown(f"<style>{css}<style>", unsafe_allow_html=True)
 
 
 def log_query(query):
@@ -216,10 +225,3 @@ def log_query(query):
     with open('log.txt', 'a') as f:
         f.write(f"{date} {query}")
         f.write("\n")
-
-
-def load_css(filename):
-    styles = ""
-    with open(filename, 'r') as f:
-        styles = f.read()
-    return styles

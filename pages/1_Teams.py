@@ -54,7 +54,6 @@ games_in_brief = pd.read_csv("data/games_in_brief.csv")
 st.info("# Games and Results")
 
 css = load_css("styles.css")
-
 st.markdown(f"<style>{css} </style>", unsafe_allow_html=True)
 
 
@@ -90,8 +89,7 @@ for j in range(0, len(games_in_brief)-2, 2):
         game_container += output
         j += 1
 
-game_container += "</div>"
-st.markdown(game_container, unsafe_allow_html=True)
+
 footer()
 
 st.toast("This page is still work in progress.")
