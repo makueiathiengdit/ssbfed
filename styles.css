@@ -1,8 +1,6 @@
 .game-card {
   width: 45%;
   height: 5%;
-  /* border-top: 15px solid #034d35; */
-  /* border: 1px solid black; */
   margin: 15px;
   padding: 5px;
 
@@ -90,9 +88,9 @@ footer::after {
 }
 
 .viewerBadge_link__qRIco {
-  display: none;
+  display: none !important;
 }
 
 div.stActionButton {
-  display: none;
+  display: none !important;
 }

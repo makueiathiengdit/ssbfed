@@ -51,7 +51,7 @@ with junior_team_tab:
 games_in_brief = get_data("data/games_in_brief.csv")
 games_in_brief = pd.read_csv("data/games_in_brief.csv")
 
-st.info("# Games and Results")
+st.info("# Games and Results {**test data**}")
 
 css = load_css("styles.css")
 st.markdown(f"<style>{css} </style>", unsafe_allow_html=True)
@@ -89,6 +89,7 @@ for j in range(0, len(games_in_brief)-2, 2):
         game_container += output
         j += 1
 
+st.markdown(game_container, unsafe_allow_html=True)
 
 footer()
 
