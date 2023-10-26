@@ -12,6 +12,12 @@ st.set_page_config(
     layout="wide"
 )
 
+try:
+    css = load_css("styles.css")
+    st.markdown(f"<style>{css}<style>", unsafe_allow_html=True)
+except:
+    pass
+
 
 initial_message = "Hello there 🙋🏿‍♀️, My name is NyaSSD,\
                   I am South Sudan basketball chatbot.\
@@ -76,10 +82,3 @@ if query:
         log_query(response)
     except:
         pass
-
-
-try:
-    css = load_css("styles.css")
-    st.markdown(f"<style>{css}<style>", unsafe_allow_html=True)
-except:
-    pass
