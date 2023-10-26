@@ -93,3 +93,7 @@ div.viewerBadge_link__qRIco {
   visibility: hidden;
   display: none;
 }
+
+div.stActionButton {
+  display: none;
+}

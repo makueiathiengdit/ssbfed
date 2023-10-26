@@ -15,7 +15,8 @@ st.set_page_config(
     layout="wide"
 )
 
-
+cover = Image.open("players.png")
+st.image(cover, use_column_width=True)
 try:
     css = load_css("styles.css")
     st.markdown(f"<style>{css}<style>", unsafe_allow_html=True)

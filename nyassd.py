@@ -13,7 +13,6 @@ def nyassd_request(payload):
         payload = json.dumps(payload)
         response = requests.post(API_URL, headers=headers, data=payload)
         response = response.json()
-
         if "error" in response:
             response = {
                 "error": "Something went wrong on our side. And we're working on it"}
