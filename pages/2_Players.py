@@ -11,7 +11,7 @@ favicon = Image.open("favicon.png")
 st.set_page_config(
     page_title="Men's Team Players",
     page_icon=favicon,
-    initial_sidebar_state="expanded",
+    initial_sidebar_state="collapsed",
     layout="wide"
 )
 

@@ -5,3 +5,64 @@
 2023-10-26 04:32:21.613137 who is nyassd
 2023-10-26 04:32:27.712363 who is awet
 2023-10-26 04:32:43.974552 hello awet
+2023-10-26 05:49:47.068384 hello
+2023-10-26 05:49:47.072431  How are you doing this evening? I just got back from playing basketball with my friends.
+2023-10-26 05:54:50.800241 hello how are you
+2023-10-26 05:54:50.802230  I am good. How are you? Do you have any questions about S.S. Basketball?
+2023-10-26 05:56:24.851758 hello
+2023-10-26 05:56:24.853757  Are you a fan of the NBA? It is the most popular professional basketball league in the world.
+2023-10-26 05:56:50.384091 who is the president of south sudan basketball
+2023-10-26 05:56:50.387420  I'm not sure who the current president is, but the NBA was founded in 1946 by Dr. James Naismith.
+2023-10-26 06:01:53.453121 hello how are you
+2023-10-26 06:03:29.123567 who is the president of south sudan
+2023-10-26 06:03:29.125554 
+2023-10-26 06:03:43.480997 who is the president of south sudan
+2023-10-26 06:03:43.481741 
+2023-10-26 06:11:03.534191 hello how are you
+2023-10-26 06:11:03.535189 Sorry i did not understand. 
+ i am still under development
+2023-10-26 06:11:06.874264 hello
+2023-10-26 06:11:06.876263 Sorry i did not understand. 
+ i am still under development
+2023-10-26 06:11:56.288983 hello
+2023-10-26 06:11:56.290984 Sorry i did not understand. 
+ i am still under development
+2023-10-26 06:12:40.409519 hello there
+2023-10-26 06:12:40.410517 Sorry i did not understand. 
+ i am still under development
+2023-10-26 06:14:01.021707 hello there
+2023-10-26 06:14:01.023707 Sorry i did not understand. 
+ i am still under development
+2023-10-26 06:14:57.663941 hello
+2023-10-26 06:14:57.666124 I'm not sure what you're trying to say, but I'm not sure what you're trying to say either.
+2023-10-26 06:15:11.790959 hello how are you
+2023-10-26 06:15:11.792952 I'm not sure what you're trying to say, but I'm not sure what you're trying to say either.
+2023-10-26 06:16:00.996253 hello there how are you
+2023-10-26 06:16:00.998259  Oh, I see. Thank you for clarifying that for me. I had no idea.
+2023-10-26 06:16:23.223317 how are you
+2023-10-26 06:16:23.225302  Oh, I see. Thank you for clarifying that for me. I had no idea.
+2023-10-26 06:23:18.741608 hello there
+2023-10-26 06:23:18.742608  Oh, I see. Thank you for clarifying that for me. I had no idea.
+2023-10-26 06:26:55.002872 hello there
+2023-10-26 06:26:55.004854  Oh, I see. Thank you for clarifying that for me. I had no idea.
+2023-10-26 06:27:05.087348 howw are you
+2023-10-26 06:27:05.089350  Oh, I see. Thank you for clarifying that for me. I had no idea.
+2023-10-26 06:27:34.714379 hello there
+2023-10-26 06:27:34.715265  Oh, I see. Thank you for clarifying that for me. I had no idea.
+2023-10-26 06:28:22.922619 hello there
+2023-10-26 06:28:22.924600  Oh, I see. Thank you for clarifying that for me. I had no idea.
+2023-10-26 06:29:13.531117 hello
+2023-10-26 06:29:13.533072  Oh, I see. Thank you for clarifying that for me. I had no idea.
+2023-10-26 06:29:54.261951 hello 
+2023-10-26 06:29:54.262938 Sorry i did not understand. 
+ i am still under development
+2023-10-26 06:30:29.573366 helo
+2023-10-26 06:30:29.574349  What is helo? I am not familiar with that word. What does helo mean?
+2023-10-26 06:30:45.643404 i mean hello
+2023-10-26 06:30:45.645405  Oh, I see. What do you like to do in your spare time? I like to play video games.
+2023-10-26 06:33:29.530005 hello how are you
+2023-10-26 06:33:29.531005 Sorry i did not understand. 
+ i am still under development
+2023-10-26 06:33:39.576288 hello
+2023-10-26 06:33:39.577289 Sorry i did not understand. 
+ i am still under development
