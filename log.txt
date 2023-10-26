@@ -66,3 +66,65 @@
 2023-10-26 06:33:39.576288 hello
 2023-10-26 06:33:39.577289 Sorry i did not understand. 
  i am still under development
+2023-10-26 15:17:17.357886 hello
+2023-10-26 15:17:17.362490 Sorry i did not understand. 
+ i am still under development
+2023-10-26 15:17:25.648217 hi
+2023-10-26 15:17:25.649201 Sorry i did not understand. 
+ i am still under development
+2023-10-26 15:18:00.885988 hello
+2023-10-26 15:18:00.886988 Sorry i did not understand. i am still under development
+2023-10-26 15:18:04.849432 hii
+2023-10-26 15:18:04.850420 Sorry i did not understand. i am still under development
+2023-10-26 15:20:16.902329 hi
+2023-10-26 15:20:16.903328 Sorry i did not understand. i am still under development
+2023-10-26 15:22:00.455862 hello dear
+2023-10-26 15:22:00.456909 Sorry i did not understand. i am still under development
+2023-10-26 15:25:15.678839 hi
+2023-10-26 15:25:15.680257 Sorry i did not understand. i am still under development
+2023-10-26 15:25:32.001472 there is not internet
+2023-10-26 15:25:32.003518 Sorry i did not understand. i am still under development
+2023-10-26 15:27:02.862591 hiiiiiiiiiiiiiiiiiiii
+2023-10-26 15:27:02.863974 Sorry i did not understand. i am still under development
+2023-10-26 15:30:30.966091 hiello
+2023-10-26 15:30:30.967418 Sorry there is no internet connection
+2023-10-26 15:31:07.076826 hiii
+2023-10-26 15:31:07.078395 Sorry i did not understand. i am still under development
+2023-10-26 15:35:01.699198 basketball is my love
+2023-10-26 15:35:01.701053 Sorry there is no internet connection
+2023-10-26 15:35:35.614997 hello there
+2023-10-26 15:35:35.616317 Sorry there is no internet connection
+2023-10-26 15:37:17.917273 hello there how are you
+2023-10-26 15:37:17.918682 Sorry i did not understand. i am still under development
+2023-10-26 15:38:37.690919 how are you today
+2023-10-26 15:38:37.692560 Sorry i did not understand. i am still under development
+2023-10-26 15:39:23.360504 hi
+2023-10-26 15:39:23.362176 Sorry i did not understand. i am still under development
+2023-10-26 15:42:05.399617 hi there
+2023-10-26 15:42:05.400670 Sorry i did not understand. i am still under development
+2023-10-26 15:45:40.403141 hello there
+2023-10-26 15:45:40.404339 Sorry i did not understand. i am still under development
+2023-10-26 15:49:18.936441 hi there
+2023-10-26 15:49:18.938896  How are you doing this evening? Do you have anything interesting to tell me about yourself?
+2023-10-26 15:50:41.041659 yes definetly
+2023-10-26 15:50:41.043555  What kind of things do you like to do in your spare time? I like to read.
+2023-10-26 15:52:13.719974 hii
+2023-10-26 15:52:13.721406  What do you do for a living? I'm a teacher, so I spend a lot of time with my students.
+2023-10-26 15:52:32.276635 hi
+2023-10-26 15:52:32.278189  Hi! How are you? I just got back from walking my dog. Do you have any pets?
+2023-10-26 15:52:44.048143 yes i do
+2023-10-26 15:52:44.049286  What kind of pets do you have? I have a dog, a cat, and a snake.
+2023-10-26 15:52:54.065870 cats
+2023-10-26 15:52:54.067210  I love cats! I have two of them and they're so fun to play with. What do you like to do for fun?
+2023-10-26 15:53:15.952770 walk in the evening
+2023-10-26 15:53:15.954734  That's a great way to start the day! Do you have a favorite place to walk?
+2023-10-26 15:53:35.806874 yes in the park
+2023-10-26 15:53:35.808664  I love going to the park too! It's so relaxing to just walk around and listen to the sounds of nature.
+2023-10-26 15:53:56.956108 can i ask you something?
+2023-10-26 15:53:56.957538  Sure, you can ask me anything you want to know about the park. It's a beautiful place.
+2023-10-26 15:54:15.067478 not about park something else
+2023-10-26 15:54:15.069549  Oh, I see. Well, it's a national park, so there's a lot to see.
+2023-10-26 15:54:36.884900 who is the owner of park
+2023-10-26 15:54:36.886252  It's owned by the National Park Service, which is part of the U.S. Department of Health and Human Services.
+2023-10-26 15:55:29.167696 hiiiii
+2023-10-26 15:55:29.169113  Hi! How are you? I just got back from a trip to the beach. 

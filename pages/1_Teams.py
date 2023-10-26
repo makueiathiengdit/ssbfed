@@ -51,9 +51,6 @@ with junior_team_tab:
 games_in_brief = get_data("data/games_in_brief.csv")
 games_in_brief = pd.read_csv("data/games_in_brief.csv")
 
-
-# st.dataframe(games_in_brief)
-
 st.info("# Games and Results")
 
 css = load_css("styles.css")

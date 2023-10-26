@@ -157,6 +157,8 @@ elif compare_btn:
     # st.dataframe(results, hide_index=True)
     # Apply the custom CSS
 
+    # with st.empty():
+    #     st.info("Results")
     # Display the DataFrame
     st.table(format_df(results))
     # st.table(results)
