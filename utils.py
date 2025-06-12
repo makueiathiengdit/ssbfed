@@ -218,7 +218,7 @@ def footer():
     # with st.sidebar():
     # css = load_css("styles.css")
     # st.markdown(f"<style>{css}<style>", unsafe_allow_html=True)
-
+    st.success("Last updated: Sep 2023")
 
 def log_query(query):
     date = datetime.datetime.now()
